@@ -1,0 +1,31 @@
+{
+    "_comment": "New entities are added, one already in _Core will have their values replaced with those in this file",
+    "costMultiplier": {
+        "Zombie": "1",
+        "Creeper": "1",
+        "Skeleton": "1",
+        "Spider": "1",
+        "CaveSpider": "1",
+        "Silverfish": "1",
+        "Witch": "1",
+        "Slime": "1",
+        "Enderman": "1",
+        "LavaSlime": "1",
+        "PigZombie": "1",
+        "Ghast": "1",
+        "Blaze": "1",
+        "SnowMan": "1",
+        "VillagerGolem": "1",
+        "Villager": "1",
+        "Wolf": "1",
+        "Ozelot": "1",
+        "EntityHorse": "1",
+        "Bat": "1",
+        "Squid": "1",
+        "Chicken": "1",
+        "Sheep": "1",
+        "Cow": "1",
+        "Pig": "1",
+        "MushroomCow": "1"
+    }
+}

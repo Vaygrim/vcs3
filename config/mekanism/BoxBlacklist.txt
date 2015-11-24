@@ -1,0 +1,6 @@
+# Use this file to tell Mekanism which blocks should not be picked up by a cardboard box.
+# Proper syntax is "NAME:META". Example (for stone):
+# stone:0
+
+# Boxing the Analyzer results in both objects being deleted
+AgriCraft:seedAnalyzer:0

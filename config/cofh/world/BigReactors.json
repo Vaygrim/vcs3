@@ -1,0 +1,19 @@
+{
+    "Yellorium Ore": {
+        "template": "uniform",
+        "block": "BigReactors:YelloriteOre",
+		"material": "minecraft:stone",
+        "clusterSize": 10,
+        "numClusters": 5,
+        "minHeight": 10,
+        "maxHeight": 60,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}
