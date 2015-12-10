@@ -1,0 +1,12 @@
+§1§lMinions§r
+
+§0§lDescription:§r
+Enslave minions to your will and command them to do menial tasks like mining, chopping wood, and carrying things around.
+
+§0§lGetting Started:§r
+You will need to do some killing to cause the minions to fear you. Once you're level 8, press the Minions command key (default is M), then do evil four times. You will receive your Master Item. Use the Master Item to spawn minions. The Master Item is how you give your orders, and is context-sensitive, so a right-click on a tree, animal, chest or dirt will give different options for commands.
+
+§0§lTips:§r
+-  Be sure to set a destination chest before setting your minions to work
+
+[lnkMinionsCurse]

@@ -95,7 +95,6 @@ Found creative tab: bdew.canisters
 Found creative tab: bdew.pressure
 Found creative tab: props.Main
 Found creative tab: search
-Found creative tab: qucra
 Found creative tab: RfTools
 Found creative tab: RfToolsDimlets
 Found creative tab: tabSimplyJetpacks
@@ -108,31 +107,7 @@ Setting up ExtraUtilities Library...
 Setting up BuildCraft Library...
 Loading table of contents for module: custom_nei_filters, 1.0, Author: denoflionsx
 Bootstrap setting found. Loading: Bootstrap.js
-Loading: Vanilla.js
-hide called. Params: minecraft, portal
-Regex match found! minecraft:portal matches minecraft:portal.
-Found ItemStack minecraft:portal. 64xtile.portal@0
-hide called. Params: minecraft, end_portal
-Regex match found! minecraft:end_portal matches minecraft:end_portal.
-Found ItemStack minecraft:end_portal. 64xtile.null@0
-hide called. Params: minecraft, fire
-Regex match found! minecraft:fire matches minecraft:fire.
-Found ItemStack minecraft:fire. 64xtile.fire@0
-hide called. Params: minecraft, water
-Regex match found! minecraft:water matches minecraft:water.
-Found ItemStack minecraft:water. 64xtile.water@0
-hide called. Params: minecraft, lava
-Regex match found! minecraft:lava matches minecraft:lava.
-Found ItemStack minecraft:lava. 64xtile.lava@0
-hide called. Params: minecraft, mob_spawner
-Regex match found! minecraft:mob_spawner matches minecraft:mob_spawner.
-Found ItemStack minecraft:mob_spawner. 64xtile.mobSpawner@0
-override called. Params: minecraft, potion, 0
-Regex match found! minecraft:potion matches minecraft:potion.
-Found ItemStack minecraft:potion. 1xitem.potion@0
-override called. Params: minecraft, spawn_egg, 0
-Regex match found! minecraft:spawn_egg matches minecraft:spawn_egg.
-Found ItemStack minecraft:spawn_egg. 64xitem.monsterPlacer@0
+Loading: vanilla.js
 Loading: ThermalExpansion.js
 override called. Params: ThermalExpansion, florb, 0,1
 Regex match found! ThermalExpansion:florb matches ThermalExpansion:florb.
@@ -159,17 +134,17 @@ override called. Params: Mekanism, GlowPanel, 0
 Regex match found! Mekanism:GlowPanel matches Mekanism:GlowPanel.
 Found ItemStack Mekanism:GlowPanel. 64xitem.GlowPanel@0
 Loading: ForgeMicroblock.js
-getRandomMaterial called. Returned: ExtraUtilities:trading_post
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, ExtraUtilities:trading_post
+getRandomMaterial called. Returned: Mekanism:BasicBlock_8
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, Mekanism:BasicBlock_8
 Loading: ExtraUtilities.js
 override called. Params: ExtraUtilities, drum, 0,1
 Regex match found! ExtraUtilities:drum matches ExtraUtilities:drum.
 Found ItemStack ExtraUtilities:drum. 64xtile.extrautils:drum@0
-getRandomMaterial called. Returned: Mekanism:BasicBlock2
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, Mekanism:BasicBlock2
+getRandomMaterial called. Returned: Mekanism:BasicBlock_11
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, Mekanism:BasicBlock_11
 Loading: BuildCraft.js
-getFacadesSize called. Returned: 2997
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 1566
+getFacadesSize called. Returned: 2996
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 2828
 Loading: Bibliocraft.js
 override called. Params: BiblioCraft, *, 0
 Regex match found! BiblioCraft:* matches BiblioCraft:Armor Stand.
@@ -302,73 +277,10 @@ Found ItemStack BiblioCraft:item.seatBack5. 64xitem.seatBack@0
 Found ItemStack BiblioCraft:item.tape. 64xitem.tape@0
 Found ItemStack BiblioCraft:item.tapeMeasure. 1xitem.tapeMeasure@0
 Found ItemStack BiblioCraft:tile.BiblioFramedChest. 64xtile.BiblioFramedChest@0
+Loading: AppliedEnergistics2.js
+Loading: Tcon.js
 Loading: MFR.js
 override called. Params: MineFactoryReloaded, tile.mfr.stainedglass.block, 0
 hide called. Params: MineFactoryReloaded:fluid.mfr.liquid.milk.still, 0
 override called. Params: MineFactoryReloaded, tile.mfr.stainedglass.pane, 0
 override called. Params: MineFactoryReloaded, tile.mfr.conveyor, 0
-Loading: StorageDrawers.js
-override called. Params: StorageDrawers, *, 0
-Regex match found! StorageDrawers:* matches StorageDrawers:compDrawers.
-Regex match found! StorageDrawers:* matches StorageDrawers:controller.
-Regex match found! StorageDrawers:* matches StorageDrawers:controllerSlave.
-Regex match found! StorageDrawers:* matches StorageDrawers:fullDrawers1.
-Regex match found! StorageDrawers:* matches StorageDrawers:fullDrawers2.
-Regex match found! StorageDrawers:* matches StorageDrawers:fullDrawers4.
-Regex match found! StorageDrawers:* matches StorageDrawers:halfDrawers2.
-Regex match found! StorageDrawers:* matches StorageDrawers:halfDrawers4.
-Regex match found! StorageDrawers:* matches StorageDrawers:shroudKey.
-Regex match found! StorageDrawers:* matches StorageDrawers:tape.
-Regex match found! StorageDrawers:* matches StorageDrawers:trim.
-Regex match found! StorageDrawers:* matches StorageDrawers:upgrade.
-Regex match found! StorageDrawers:* matches StorageDrawers:upgradeCreative.
-Regex match found! StorageDrawers:* matches StorageDrawers:upgradeLock.
-Regex match found! StorageDrawers:* matches StorageDrawers:upgradeStatus.
-Regex match found! StorageDrawers:* matches StorageDrawers:upgradeTemplate.
-Regex match found! StorageDrawers:* matches StorageDrawers:upgradeVoid.
-Found ItemStack StorageDrawers:compDrawers. 64xtile.compDrawers@0
-Found ItemStack StorageDrawers:controller. 64xtile.drawerController@0
-Found ItemStack StorageDrawers:controllerSlave. 64xtile.controllerSlave@0
-Found ItemStack StorageDrawers:fullDrawers1. 64xtile.fullDrawers1@0
-Found ItemStack StorageDrawers:fullDrawers2. 64xtile.fullDrawers2@0
-Found ItemStack StorageDrawers:fullDrawers4. 64xtile.fullDrawers4@0
-Found ItemStack StorageDrawers:halfDrawers2. 64xtile.halfDrawers2@0
-Found ItemStack StorageDrawers:halfDrawers4. 64xtile.halfDrawers4@0
-Found ItemStack StorageDrawers:shroudKey. 64xitem.storagedrawers.shroudKey@0
-Found ItemStack StorageDrawers:tape. 1xitem.storagedrawers.tape@0
-Found ItemStack StorageDrawers:trim. 64xtile.trim@0
-Found ItemStack StorageDrawers:upgrade. 64xitem.storagedrawers.upgrade@0
-Found ItemStack StorageDrawers:upgradeCreative. 64xitem.storagedrawers.upgradeCreative@0
-Found ItemStack StorageDrawers:upgradeLock. 64xitem.storagedrawers.upgradeLock@0
-Found ItemStack StorageDrawers:upgradeStatus. 64xitem.storagedrawers.upgradeStatus@0
-Found ItemStack StorageDrawers:upgradeTemplate. 64xitem.storagedrawers.upgradeTemplate@0
-Found ItemStack StorageDrawers:upgradeVoid. 64xitem.storagedrawers.upgradeVoid@0
-override called. Params: StorageDrawers, upgrade, 2,3,4,5,6
-Regex match found! StorageDrawers:upgrade matches StorageDrawers:upgrade.
-Found ItemStack StorageDrawers:upgrade. 64xitem.storagedrawers.upgrade@0
-override called. Params: StorageDrawers, upgradeStatus, 1,2
-Regex match found! StorageDrawers:upgradeStatus matches StorageDrawers:upgradeStatus.
-Found ItemStack StorageDrawers:upgradeStatus. 64xitem.storagedrawers.upgradeStatus@0
-hide called. Params: StorageDrawersBop, *
-hide called. Params: StorageDrawersForestry, *
-hide called. Params: StorageDrawersMisc, *
-hide called. Params: dendrology, fullDrawers1
-Regex match found! dendrology:fullDrawers1 matches dendrology:fullDrawers1.
-Found ItemStack dendrology:fullDrawers1. 64xtile.dendrology.fullDrawers1@0
-hide called. Params: dendrology, fullDrawers2
-Regex match found! dendrology:fullDrawers2 matches dendrology:fullDrawers2.
-Found ItemStack dendrology:fullDrawers2. 64xtile.dendrology.fullDrawers2@0
-hide called. Params: dendrology, fullDrawers4
-Regex match found! dendrology:fullDrawers4 matches dendrology:fullDrawers4.
-Found ItemStack dendrology:fullDrawers4. 64xtile.dendrology.fullDrawers4@0
-hide called. Params: dendrology, halfDrawers2
-Regex match found! dendrology:halfDrawers2 matches dendrology:halfDrawers2.
-Found ItemStack dendrology:halfDrawers2. 64xtile.dendrology.halfDrawers2@0
-hide called. Params: dendrology, halfDrawers4
-Regex match found! dendrology:halfDrawers4 matches dendrology:halfDrawers4.
-Found ItemStack dendrology:halfDrawers4. 64xtile.dendrology.halfDrawers4@0
-hide called. Params: dendrology, fullDrawersSort1
-hide called. Params: dendrology, fullDrawersSort2
-hide called. Params: dendrology, fullDrawersSort4
-hide called. Params: dendrology, halfDrawersSort4
-hide called. Params: dendrology, halfDrawersSort2

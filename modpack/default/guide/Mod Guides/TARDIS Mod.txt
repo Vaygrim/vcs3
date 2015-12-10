@@ -1,0 +1,13 @@
+§1§lTARDIS Mod§r
+
+§0§lDescription:§r
+An extra-dimensional base-in-box that travels through space and traverses dimensional boundaries. Simple as that, really.
+
+§0§lGetting Started:§r
+Using a looted or crafted Kontron Crystal, craft a key then right-click the key to materialize your TARDIS. Right-click the key on the door to start your journey. You will find your Sonic Screwdriver in the console; use it to modify your TARDIS. As you travel, your TARDIS will gain experience, which will unlock additional features.
+
+§0§lTips:§r
+-  Make a library in your TARDIS, to get access to the TARDIS manual
+-  Activate the Land-Ground control prevent "landing" in mid-air... and the sudden drop thereafter.
+
+[lnkTARDISModCurseCurse]

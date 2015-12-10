@@ -1,0 +1,10 @@
+§1§lProjectE§r
+
+§0§lDescription:§r
+ProjectE is an alchemical mod which makes it possible to transmute materials into other materials, using various items and machines. The system is based upon a system of Energy-Mass Currency (EMC), which is the "value" of an item. Items can be converted to EMC, stored, then the EMC can be used to create other items.
+
+§0§lGetting Started:§r
+Craft a Philosopher's Stone and a Transmutation Table. Use the Transmutation Table to transmute things into EMC. The table "learns" each item that you transmute, so that you can create more of those items later, if you have enough EMC.
+
+§0§lTips:§r
+-  Work together with friends to help your Tables learn as many items as possible.

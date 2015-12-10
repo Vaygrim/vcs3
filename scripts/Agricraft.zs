@@ -162,9 +162,9 @@ SeedMutation.add(platinumSeed, goldSeed, lapisSeed);
 SeedMutation.add(enderiumSeed, tinSeed, endermanSeed);
 SeedMutation.add(vibrantAlloySeed, energeticAlloySeed, endermanSeed);
 SeedMutation.add(pulsatingIronSeed, ironSeed, endermanSeed);
-SeedMutation.add(peridotSeed, ironSeed, cactusSeed);
-SeedMutation.add(rubySeed, ironSeed, poppySeed);
-SeedMutation.add(sapphireSeed, ironSeed, blueOrchidSeed);
+SeedMutation.add(peridotSeed, quartzSeed, cactusSeed);
+SeedMutation.add(rubySeed, quartzSeed, poppySeed);
+SeedMutation.add(sapphireSeed, quartzSeed, blueOrchidSeed);
 
 //'Magic' Crops
 SeedMutation.add(amberSeed, dyeSeed, natureSeed);

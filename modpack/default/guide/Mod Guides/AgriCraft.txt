@@ -1,0 +1,17 @@
+§1§lAgriCraft§r
+
+§0§lDescription:§r
+Breed plants to make new plants. Then improve those plants to produce maximum yields!
+
+§0§lGetting Started:§r
+Create a stack of crop sticks (you will need a LOT of these!). Make some farming soil (fertilized dirt is good, too), place single crop sticks, then place the seed. A mature plant will clone onto double cropsticks. If the double cropsticks are at the intersection of two mature plants, they might mutate into a new plant. Place cropsticks twice to create double cropsticks. Use the Seed Analyzer to check the statistics of your plants. Mutate mature versions of the same plant to increase its statistics.
+
+§0§lTips:§r
+-  The cloned/mutated plant that grows onto double cropsticks will be affected by the other plants in ALL adjacent blocks.
+-  Give yourself plenty of room to avoid unintended influences, and keep your mutations pure.
+-  Use the Clippers to quickly close a plant without waiting for it to mature.
+-  The various growth-accelerating items (Watering Can, Fertilized Earth, etc.) will dramatically increase your productivity.
+-  To move plants, use the Trowel to move plants from one cropstick to another.
+
+[lnkAgriCraftCurse]
+

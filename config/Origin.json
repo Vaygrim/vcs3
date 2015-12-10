@@ -1,7 +1,7 @@
 {
 	"general": {
 		// Shhhhh!
-		"Secret Pumpkin": true
+		"Secret Pumpkin": false
 	},
 	"client": {
 		"neutral volume": 100.0,
@@ -9,7 +9,7 @@
 		"player volume": 100.0,
 		"block volume": 100.0,
 		// Collapses the vanilla multiple rows of hearts into a colour coded single layer
-		"Coloured Hearts": true,
+		"Coloured Hearts": false,
 		// The colors of the hearts. The quantity of colors here represents the tiers of hearts.(quantity * 20 + 20 = total max health accounted for)
 		"Heart Colours": [
 			"#ff1313",

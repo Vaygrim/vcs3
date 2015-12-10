@@ -1,0 +1,9 @@
+§1§lAutomagy§r
+
+§0§lDescription:§r
+Automagy is an add-on to Thaumcraft 4. It focuses on ways to help automate Thaumcraft, and has some useful gadgets
+
+§0§lGetting Started:§r
+Automagy will be most useful once you have gotten into the more advanced Thaumcraft research.
+
+[lnkAutomagyMCF]

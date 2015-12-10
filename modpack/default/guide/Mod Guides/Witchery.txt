@@ -1,0 +1,11 @@
+§1§lWitchery§r
+
+§0§lDescription:§r
+Though not so flashy as some other magical arts, the witching powers of nature and the spirit world are more than capable to both heal and harm...
+
+§0§lGetting Started:§r
+This is a complex mod with several skill trees. A good place to start is by building a Witches Oven, crafting a few Clay Jars, and then crafting the book "Witchcraft: Collecting Fumes". The book requires an ink sac, charcoal, an empty book, a feather and Belladonna. Belladonna seeds are dropped from grass, as are many of the plants you will be using, so save those seeds for later.
+
+§0§lTips:§r
+-  Read the Witchery wiki! It is quite helpful
+[lnkWitchery]
