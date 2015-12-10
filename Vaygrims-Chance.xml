@@ -167,10 +167,10 @@
 			authors="DjGiannuzz" 
 			description="NEI Integration for Thaumcraft 4." />
 		
-		<mod name="WAILA Harversability Addon" version="1.1.2" 
-			url="packs/VaygrimsChance/files/1.7.10/Client/WailaHarvestability-mc1.7.x-1.1.2.jar" 
-			file="WailaHarvestability-mc1.7.x-1.1.2.jar" 
-			md5="44f3356029a6a17e4bf3bd9313e9cbe4" 
+		<mod name="WAILA Harversability Addon" version="1.1.5" 
+			url="packs/VaygrimsChance/files/1.7.10/Client/WailaHarvestability-mc1.7.10-1.1.5.jar" 
+			file="WailaHarvestability-mc1.7.10-1.1.5.jar" 
+			md5="6f543d64f0f42b3e287161bf7e154678" 
 			download="server" type="mods" server="no"
 			website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1295067-waila-harvestability-how-can-i-harvest-what-im" 
 			authors="Squeek502"
