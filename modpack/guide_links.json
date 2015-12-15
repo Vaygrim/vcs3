@@ -1,0 +1,178 @@
+{
+  "links":
+  {
+    "imgVaygrim":
+    {
+      "type": "image",
+      "link": "images/VC3-800x800.jpg" 
+    },
+	"lnkAgriCraftCurse":
+    {
+      "type": "url",
+      "link": "http://minecraft.curseforge.com/projects/agricraft",
+      "title": "§9[AgriCraft on Curse]§r",
+      "hover": "http://minecraft.curseforge.com/projects/agricraft"
+    },
+	"lnkAutomagyMCF":
+    {
+      "type": "url",
+      "link": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2125369-tc4-addon-automagy-automation-and-logistics-v0-27",
+      "title": "§9[Automagy on MCF]§r",
+      "hover": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2125369-tc4-addon-automagy-automation-and-logistics-v0-27"
+    },
+	"lnkBloodMagicMCF":
+    {
+      "type": "url",
+      "link": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290532-1-7-10-2-1-6-4-blood-magic-v1-3-3-17-updated-nov",
+      "title": "§9[Blood Magic on MCF]§r",
+      "hover": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290532-1-7-10-2-1-6-4-blood-magic-v1-3-3-17-updated-nov"
+    },
+	"lnkChisel2Curse":
+    {
+      "type": "url",
+      "link": "http://www.curse.com/mc-mods/minecraft/225236-chisel-2",
+      "title": "§9[Chisel2 on Curse]§r",
+      "hover": "http://www.curse.com/mc-mods/minecraft/225236-chisel-2"
+    },
+	"lnkEnderUtilitiesCurse":
+    {
+      "type": "url",
+      "link": "http://www.curse.com/mc-mods/minecraft/224320-ender-utilities",
+      "title": "§9[Ender Utilities on Curse]§r",
+      "hover": "http://www.curse.com/mc-mods/minecraft/224320-ender-utilities"
+    },
+	"lnkEnderTechWiki":
+    {
+      "type": "url",
+      "link": "https://github.com/carrotengineer/EnderTech/wiki",
+      "title": "§9[Ender Tech wiki]§r",
+      "hover": "https://github.com/carrotengineer/EnderTech/wiki"
+    },
+	"lnkEsper":
+    {
+      "type": "url",
+      "link": "http://esper.net/index.php",
+      "title": "§9[esper.net]§r",
+      "hover": "IRC on esper.net"
+    },
+	"lnkEwysCurse":
+    {
+      "type": "url",
+      "link": "http://www.curse.com/mc-mods/minecraft/236564-ewys-workshop",
+      "title": "§9[Ewy's Workshop on Curse]§r",
+      "hover": "http://www.curse.com/mc-mods/minecraft/236564-ewys-workshop"
+    },
+	"lnkExtraUtilitiesMCF":
+    {
+      "type": "url",
+      "link": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1443963-extra-utilities-v1-1-0k",
+      "title": "§9[Extra Utilities on MCF]§r",
+      "hover": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1443963-extra-utilities-v1-1-0k"
+    },
+	"lnkGearSwapCurse":
+    {
+      "type": "url",
+      "link": "http://www.curse.com/mc-mods/minecraft/236610-gear-swapper",
+      "title": "§9[Gear Swap on Curse]§r",
+      "hover": "http://www.curse.com/mc-mods/minecraft/236610-gear-swapper"
+    },
+	"lnkIronBackpacksMCF":
+    {
+      "type": "url",
+      "link": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2331340-iron-backpacks",
+      "title": "§9[Iron Backpacks on MCF]§r",
+      "hover": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2331340-iron-backpacks"
+    },
+	"lnkMagicalCropsCurse":
+    {
+      "type": "url",
+      "link": "http://www.curse.com/mc-mods/minecraft/228834-magical-crops",
+      "title": "§9[Magical Crops on Curse]§r",
+      "hover": "http://www.curse.com/mc-mods/minecraft/228834-magical-crops"
+    },
+	"lnkMinestonesCurse":
+    {
+      "type": "url",
+      "link": "http://www.curse.com/mc-mods/minecraft/231048-minestones",
+      "title": "§9[Minestones on Curse]§r",
+      "hover": "http://www.curse.com/mc-mods/minecraft/231048-minestones"
+    },
+	"lnkMinionsCurse":
+    {
+      "type": "url",
+      "link": "http://www.curse.com/mc-mods/minecraft/227878-minecraft-minions",
+      "title": "§9[Minions on Curse]§r",
+      "hover": "http://www.curse.com/mc-mods/minecraft/227878-minecraft-minions"
+    },
+	"lnkRemainInMotionMCF":
+    {
+      "type": "url",
+      "link": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2104611-remain-in-motion-continuation-of-redstone-in",
+      "title": "§9[Remain in Motion on MCF]§r",
+      "hover": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2104611-remain-in-motion-continuation-of-redstone-in"
+    },
+	"lnkRFToolsWiki":
+    {
+      "type": "url",
+      "link": "https://github.com/McJty/RFTools/wiki",
+      "title": "§9[RFTools Wiki]§r",
+      "hover": "https://github.com/McJty/RFTools/wiki"
+    },
+	"lnkRFToolsAdminCommands":
+    {
+      "type": "url",
+      "link": "https://github.com/McJty/RFTools/wiki/RFTools-Commands",
+      "title": "§9[RFTools Wiki - Commands]§r",
+      "hover": "https://github.com/McJty/RFTools/wiki/RFTools-Commands"
+    },
+	"lnkSimplyJetpacksWiki":
+    {
+      "type": "url",
+      "link": "https://github.com/Tonius/SimplyJetpacks/wiki",
+      "title": "§9[Simply Jetpacks Wiki]§r",
+      "hover": "https://github.com/Tonius/SimplyJetpacks/wiki"
+    },
+	"lnkStorageDrawersCurse":
+    {
+      "type": "url",
+      "link": "http://www.curse.com/mc-mods/minecraft/223852-storage-drawers",
+      "title": "§9[Storage Drawers on Curse]§r",
+      "hover": "http://www.curse.com/mc-mods/minecraft/223852-storage-drawers"
+    },
+	"lnkTARDISModCurseCurse":
+    {
+      "type": "url",
+      "link": "http://www.curse.com/mc-mods/minecraft/230170-tardis-mod",
+      "title": "§9[TARDIS Mod on Curse]§r",
+      "hover": "http://www.curse.com/mc-mods/minecraft/230170-tardis-mod"
+    },
+	"lnkTLOG":
+    {
+      "type": "url",
+      "link": "http://vaygrim.com/forum/",
+      "title": "§9[vaygrim.com/forum]§r",
+      "hover": "LoG Forums"
+    },
+	"lnkTVVaygrimSite":
+    {
+      "type": "url",
+      "link": "http://tv.vaygrim.com",
+      "title": "§9[tv.vaygrim.com]§r",
+      "hover": "All Vaygrim's videos"
+    },
+	"lnkVCS3Site":
+    {
+      "type": "url",
+      "link": "http://vaygrim.com/vcs3/",
+      "title": "§9[vaygrim.com/vcs3/]§r",
+      "hover": "VCS3 Site"
+    },
+    "lnkWitchery":
+    {
+      "type": "url",
+      "link": "https://sites.google.com/site/witcherymod/",
+      "title": "§9[Official Witchery Wiki]§r",
+      "hover": "Witchery wiki"
+    }
+  }
+}

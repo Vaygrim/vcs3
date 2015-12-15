@@ -1,0 +1,20 @@
+[imgVaygrim]
+
+§1§l About the Vaygrim's Chance, Season 3 modpack§r
+
+§0§lGreetings!§r
+
+§lT§rhank you for downloading the “Vaygrim’s Chance, Season 3” modpack. This is the very same pack that I use for my Vaygrim’s Chance series on YouTube.
+
+§lA§rlthough this modpack has many different mods from a variety of authors, it is far from just another “kitchen sink” pack. VCS3 was specifically designed by me to be the perfect environment for the fun, casual, “builder style” gameplay that I enjoy, and that you see in each episode of Vaygrim’s Chance.
+
+§lW§rhat does this mean? Here are the design goals:
+·  Very short “early game”, so that you can get to building as soon as possible
+·  Open progression – no predefined tech tree
+·  Repetitive grinding has been minimized as much as possible
+·  Selections of both magic AND tech mods
+·  Lots of creative building tools to exercise your imagination
+·  Many options for processing materials and storing your vast horde of resources
+·  Creeper damage, warp, and other destructive forces are off, cuz that kind of stuff is not my definition of “fun”
+
+§lA§rnd all of this has gone through literally hundreds of man-hours of testing and tweaking to help assure a quality experience with as few mod conflicts and technical glitches as possible. Please check the Credits section to see the names of those individuals who dedicated their time to support the creation of this pack§0

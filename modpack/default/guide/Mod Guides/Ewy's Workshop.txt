@@ -1,0 +1,12 @@
+§1§lEwy's Workshop§r
+
+§0§lDescription:§r
+A simple, modular workshop that allows you to combine crafting, smelting, and even auto-crafting into one single block.
+
+§0§lGetting Started:§r
+The Main GUI of the Workshop Table is divided into four large "modular workstation" areas which can each be either a crafting table or a furnace. Along the bottom left are buttons to see either the Main GUI, the Transfer options (how to get stuff in and out of the Table), and the Upgrades. In the lower-right is the energy meter. When you first craft the Table, the four Main modular areas will be empty, since you have not added a crafting table or furnace yet. Make a crafting table, then go to the Upgrade section and place the crafting table in one of the dark grey slots in the top four sections. This will add a crafting module. Now click on the Main button, and you will see that you now have a crafting station to work with!
+
+§0§lTips:§r
+-  Some upgrades are global, but some only apply to a single module in the Workshop. The mod won't allow you to drop an upgrade in the wrong slot.
+
+[lnkEwysCurse]

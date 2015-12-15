@@ -1,0 +1,13 @@
+§1§lChisel§r
+
+§0§lDescription:§r
+Chisel adds many decorative blocks to the game. It uses a chisel tool to form/re-form common blocks into fancy, decorative ones.
+
+§0§lGetting Started:§r
+Create a Chisel tool. Hold the chisel tool, then use it. A GUI will open. Drop a common block like cobblestone or stone into the top-left slot. You will see the many variations of that block. Drag the desired block to your inventory to "chisel" the block and create the new block.
+
+§0§lTips:§r
+-  Chiseled blocks can be re-chiseled into other varieties of the same basic block.
+-  Chiseled blocks can always be un-chiseled back to the original block.
+
+[lnkChisel2Curse]

@@ -1,0 +1,9 @@
+§1§lEnderTech§r
+
+§0§lDescription:§r
+EnderTech is an add-on mod for Thermal Expansion. It adds Ender-based technology to the Thermal Expansion tech tree. There are charging or healing pads, high-density liquid storage, and other useful items.
+
+§0§lGetting Started:§r
+Because these items are expensive to build and require power infrastructure, EnderTech is usually accessed mid to late-game.
+
+[lnkEnderTechWiki]

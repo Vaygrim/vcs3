@@ -1,0 +1,8 @@
+§1§lOpenBlocks§r
+
+§0§lDescription:§r
+OpenBlocks is an eclectic collection of useful items and blocks. The mod includes blocks for modular liquid storage, item transport, liquid XP, and much, much more.
+
+§0§lGetting Started:§r
+The in-game book "World Domination with OpenBlocks" is a good way to learn about this mod. The book can be crafted by combining clay and a book in a crafting grid.
+

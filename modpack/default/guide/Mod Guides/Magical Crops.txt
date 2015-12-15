@@ -1,0 +1,15 @@
+§1§lMagical Crops§r
+
+§0§lDescription:§r
+Using Magical Crops, you can grow almost any resource in the game. Create the seed, grow the plants to maturity, then harvest the essence. Combine the essence to make a resource.
+
+§0§lGetting Started:§r
+Use 8 Minicio Essence and one Seed to create a Minicio Seed. Most recipes start with Minicio seeds.
+
+§0§lTips:§r
+-  There are two ways to create new plant species: Magical Crops essence + an Infusion stone, or by using Agricraft to mutate new plants.
+-  If you will be using the Infusion Stones to make new plants, create a Minicio garden early on, to start stockpiling essence.
+-  The various growth-accelerating items (Watering Can, Fertilized Earth, etc.) will dramatically increase your productivity.  
+-  Using Agricraft, you can breed improved plants that are MUCH more productive
+
+[lnkMagicalCropsCurse]

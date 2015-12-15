@@ -1,0 +1,13 @@
+§1§lLiquid Dirt§r
+
+§0§lDescription:§r
+Mix a bucket of water with dirt, and what do you get? Liquid dirt, of course! Pour out the liquid dirt and it will flow like water. After a few seconds it will dry up to form... more dirt!
+
+§0§lGetting Started:§r
+Liquid Dirt is a handy way to fill in large areas like Creeper holes or Enderman damage. It can also be a way to "farm" dirt if you need a lot of dirt for a construction but do not want to damage the landscape to get it.
+
+§0§lTips:§r
+-  Liquid dirt flows like water, out to 8 blocks.
+-  To maximize the results, pour the liquid dirt so that it spreads out as much as possible.
+
+

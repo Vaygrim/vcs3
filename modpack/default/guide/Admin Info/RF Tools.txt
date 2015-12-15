@@ -1,0 +1,10 @@
+§1§l RF Tools Admin commands§r
+
+These are the more common commands. For a full list, consult the RF Tools Wiki:
+[lnkRFToolsAdminCommands]
+
+§0§l /rftdim list§r: list all RFTools dimensions and their current power status.
+§0§l /rftdim safedel <dimension>§r: deletes the dimension and also cleans up the receiver from the list.
+§0§l /rftdim tp <dimension> <x> <y> <z>§r: teleport to the dimension
+§0§l /rftdim info §o[<dimension>]§r: full information for the given dimension (or the current if no number was given).
+§0§l /rfttp list§r: list all receivers in the world

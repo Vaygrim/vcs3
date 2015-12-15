@@ -1,0 +1,13 @@
+§1§lIron Chests§r
+
+§0§lDescription:§r
+Iron Chests adds several tiers of chests that have increasing storage. The storage capacity ranges from copper, with 45 slots, up to diamond, with 108 slots. All Iron Chests are single chests only, they will not create double chests, like a Minecraft chest.
+
+§0§lGetting Started:§r
+Although you can craft one of the special chests directly, it is very simple to upgrade an existing chest. Craft an upgrade then hold it and r-click the chest. It will be upgraded in-place, preserving all the contents of the previous chest.
+
+§0§lTips:§r
+-  Crystal is an upgrade to diamond. It allows you see the contents of the chest, but does not change the capacity.
+-  Obsidian is an upgrade to diamond that makes the chest explosion resistant.
+
+
