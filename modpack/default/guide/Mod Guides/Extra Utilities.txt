@@ -1,0 +1,14 @@
+§1§lExtra Utilities§r
+
+§0§lDescription:§r
+Extra Utilities adds many diverse blocks and items.
+
+§0§lGetting Started:§r
+There is no tech tree to this mod -- it is a collection of useful items and blocks that you craft as needed.
+
+§0§lTips:§r
+-  The Watering Can is easy to craft, and dramatically increases plant growth, much like bone meal.
+-  Compressed Cobblestone is a handy way to store all that cobble you'll be creating
+-  The Ender-Thermic Pump reduces potential lag-inducing liquid flows when pumping lava from the Nether
+
+[lnkExtraUtilitiesMCF]

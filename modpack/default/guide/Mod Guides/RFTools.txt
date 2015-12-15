@@ -1,0 +1,14 @@
+§1§lRF Tools§r
+
+§0§lDescription:§r
+RF Tools started out as a collection of tools to help manage RF energy networks and blocks for tech builds. It has grown to include power production, teleportation, dimension building, and much more.
+
+§0§lGetting Started:§r
+There is no tech tree for this mod. RFTools has two craftable in-game manuals, one is a general manual and the other is specific to dimension building. Dimensions are created from dimlets, which are treasure items, and require constant power to remain stable. Therefore you will need to already have a significant power structure in place before being able to experiment with the RFTools dimension system.
+
+§0§lTips:§r
+-  The Destination Analyzer will help prevent tragic teleportation accidents.
+-  An Enderman farm is a good way to collect Unknown Dimlets.
+-  Make sure to chunk load your dimension's power supply, and always have a exit plan for a collapsing dimension.
+
+[lnkRFToolsWiki]
