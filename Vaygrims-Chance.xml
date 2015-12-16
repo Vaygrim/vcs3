@@ -1,6 +1,6 @@
 <version>		
 		<pack>
-			<version>VC3-1.0</version>
+			<version>VC3-1.1</version>
 			<minecraft>1.7.10</minecraft>
 			<memory>2048</memory>
 			<permgen>256</permgen>
@@ -117,7 +117,7 @@
 			url="packs/VaygrimsChance/files/1.7.10/Client/ColorblindHelper-1.7.10-1.0.1.3.jar" 
 			file="ColorblindHelper-1.7.10-1.0.1.3.jar" 
 			md5="a947b864f116adc82d381a37199cc2e1" 
-			download="server" type="mods" 
+			download="server" type="mods" server="no" 
 			website="http://www.curseforge.com/projects/235208/" 
 			authors="tterrag1098" 
 			description="Provides a way to add overlays to any item in the game, to assist with colorblindness in Minecraft." />
@@ -126,7 +126,7 @@
 			url="packs/VaygrimsChance/files/1.7.10/Client/journeymap-1.7.10-5.1.3b1-unlimited.jar" 
 			file="journeymap-1.7.10-5.1.3b1-unlimited.jar" 
 			md5="6a2ddb0a9266f7dfc8c93ee755e15c7d" 
-			download="server" type="mods" 
+			download="server" type="mods" server="no" 
 			website="http://journeymap.info" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=D5KK9FRAQG6DE&amp;item_name=JourneyMap+(from+curseforge.com)&amp;cmd=_s-xclick" 
 			authors="techbrew,mysticdrew" 
 			description="JourneyMap Unlimited Edition: Real-time map in-game or in a web browser as you explore." />
@@ -135,7 +135,7 @@
 			url="packs/VaygrimsChance/files/1.7.10/Client/MouseTweaks-2.4.4-mc1.7.10.jar" 
 			file="MouseTweaks-2.4.4-mc1.7.10.jar" 
 			md5="d4968eb0b513066313259fcd80bb8eb0" 
-			download="server" type="mods" 
+			download="server" type="mods" server="no" 
 			website="http://www.minecraftforum.net/topic/1518185-" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/mouse-tweaks?gameCategorySlug=mc-mods&amp;projectID=60089&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=yalterz%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gi" 
 			authors="YaLTeR" 
 			description="A mod that enhances the inventory management by adding various additional functions to the usual mouse buttons." />
@@ -144,7 +144,7 @@
 			url="packs/VaygrimsChance/files/1.7.10/Client/NotEnoughKeys-1.7.10-3.0.0b43-universal.jar" 
 			file="NotEnoughKeys-1.7.10-3.0.0b43-universal.jar" 
 			md5="8b1b83e25cecbc7b3f0ee9a2b7ef8489" 
-			download="server" type="mods" 
+			download="server" type="mods" server="no" 
 			website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2277165-notenoughkeys" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/notenoughkeys?gameCategorySlug=mc-mods&amp;projectID=224614&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=the.country.gamer%40gmail.com&amp;bn=PP-DonationsBF:btn_do" 
 			authors="dmodoomsirius, okushama, Parker8283, TheTemportalist" 
 			description="Upddated Version of Okushama&apos;s NotEnoughKeys. Sorts the Controls gui system and adds optional modifiers (SHIFT, CTRL, ALT) to keys." />
@@ -162,15 +162,15 @@
 			url="packs/VaygrimsChance/files/1.7.10/Client/thaumcraftneiplugin-1.7.10-1.7a.jar" 
 			file="thaumcraftneiplugin-1.7.10-1.7a.jar" 
 			md5="f71559fa64c1996b03e796b660914637" 
-			download="server" type="mods" 
+			download="server" type="mods" server="no" 
 			website="http://www.curseforge.com/projects/225095/" 
 			authors="DjGiannuzz" 
 			description="NEI Integration for Thaumcraft 4." />
 		
-		<mod name="WAILA Harversability Addon" version="1.1.5" 
-			url="packs/VaygrimsChance/files/1.7.10/Client/WailaHarvestability-mc1.7.10-1.1.5.jar" 
-			file="WailaHarvestability-mc1.7.10-1.1.5.jar" 
-			md5="6f543d64f0f42b3e287161bf7e154678" 
+		<mod name="WAILA Harversability Addon" version="1.1.6" 
+			url="packs/VaygrimsChance/files/1.7.10/Client/WailaHarvestability-mc1.7.10-1.1.6.jar" 
+			file="WailaHarvestability-mc1.7.10-1.1.6.jar" 
+			md5="e9d81089ddec3da20f0bb144e7beb4da" 
 			download="server" type="mods" server="no"
 			website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1295067-waila-harvestability-how-can-i-harvest-what-im" 
 			authors="Squeek502"
@@ -250,10 +250,10 @@
 			authors="Tuhljin (programming, art),Draanor (art)" 
 			description="An addon for Thaumcraft 4 focused on providing flexible and interesting tools for automation and logistics, plus a few other fun thaumic gadgets." />
 		
-		<mod name="BD Lib" version="1.9.3.107" 
-			url="packs/VaygrimsChance/files/1.7.10/Core/bdlib-1.9.3.107-mc1.7.10.jar" 
-			file="bdlib-1.9.3.107-mc1.7.10.jar" 
-			md5="7f2c8ca2fa0b5fba4b142b4fc11b6e98" 
+		<mod name="BD Lib" version="1.9.4.109" 
+			url="packs/VaygrimsChance/files/1.7.10/Core/bdlib-1.9.4.109-mc1.7.10.jar" 
+			file="bdlib-1.9.4.109-mc1.7.10.jar" 
+			md5="e446121e3e94b77d1c610ceed0fd3f68" 
 			download="server" type="mods" 
 			website="http://www.bdew.net/mods/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/bdlib?gameCategorySlug=mc-mods&amp;projectID=70496&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=blackdew%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonH" 
 			authors="bdew" 
@@ -277,28 +277,28 @@
 			authors="Joseph &apos;Nuchaz&apos; Sinclair" 
 			description="BiblioCraft adds fancy storage containers including bookcases, armor stands, potion shelves, regular shelves, tool racks, glass weapon cases, wooden desks and wooden chest labels and now add machines, redstone interactions, and eyeware! New in 1.3: Fancy lamps and golden lanterns. Also Tables and enchanted plates!" />
 
-		<mod name="Blood Magic" version="1.3.3-13" 
-			url="packs/VaygrimsChance/files/1.7.10/Core/BloodMagic-1.7.10-1.3.3-13.jar" 
-			file="BloodMagic-1.7.10-1.3.3-13.jar" 
-			md5="058f6fbe7bb929e8c91583df201e953e" 
+		<mod name="Blood Magic" version="1.7.10-1.3.3-17" 
+			url="packs/VaygrimsChance/files/1.7.10/Core/BloodMagic-1.7.10-1.3.3-17.jar" 
+			file="BloodMagic-1.7.10-1.3.3-17.jar" 
+			md5="c4ced843754969a693afd574886a58bd" 
 			download="server" type="mods" 
 			website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290532-1-7-10-2-1-6-4-blood-magic-v1-2-0a-updated-oct-20" 
 			authors="WayofTime"
 			description="Exploit the power of blood to reshape reality!" />
 
-		<mod name="Buildcraft" version="7.1.13" 
-			url="packs/VaygrimsChance/files/1.7.10/Core/buildcraft-7.1.13.jar" 
-			file="buildcraft-7.1.13.jar" 
-			md5="bcfb273924568001a0c1b3d84283273b"
+		<mod name="Buildcraft" version="7.1.14" 
+			url="packs/VaygrimsChance/files/1.7.10/Core/buildcraft-7.1.14.jar" 
+			file="buildcraft-7.1.14.jar" 
+			md5="845fdd6d81ed018b4d4e272ea44fc352"
 			download="server" type="mods" 
 			website="http://www.mod-buildcraft.com/" 
 			authors="Author: CovertJaguar, SirSengir, Krapht, SpaceToad"
 			description="Adds a variety of pipes and machines to make minecraft less... manual." />
 		
-		<mod name="Buildcraft Compat" version="7.1.2" 
-			url="packs/VaygrimsChance/files/1.7.10/Core/buildcraft-compat-7.1.2.jar" 
-			file="buildcraft-compat-7.1.2.jar" 
-			md5="4732db935399eeadf6d2bd25e8279cb9"
+		<mod name="Buildcraft Compat" version="compat-7.1.3" 
+			url="packs/VaygrimsChance/files/1.7.10/Core/buildcraft-compat-7.1.3.jar" 
+			file="buildcraft-compat-7.1.3.jar" 
+			md5="cc06b328936e07aac79825b231615621"
 			download="server" type="mods" 
 			website="http://www.mod-buildcraft.com/" 
 			authors="Author: CovertJaguar, SirSengir, Krapht, SpaceToad"
@@ -322,10 +322,10 @@
 			authors="TheCodeWarrior" 
 			description="Fast travel with cool-looking catwalks!" />
 
-		<mod name="Chisel" version="2.9.3.9" 
-			url="packs/VaygrimsChance/files/1.7.10/Core/Chisel-2.9.3.9.jar" 
-			file="Chisel-2.9.3.9.jar" 
-			md5="3788c1436fe2012b1fa0075a409407f9" 
+		<mod name="Chisel" version="2.9.4.10" 
+			url="packs/VaygrimsChance/files/1.7.10/Core/Chisel-2.9.4.10.jar" 
+			file="Chisel-2.9.4.10.jar" 
+			md5="6e770ac469cb5e5a5f30e2e398dd1bad"
 			download="server" type="mods" 
 			website="http://www.minecraftforum.net/forums/thread/1294901" 
 			authors="tterrag,Drullkus,minecreatr" 
@@ -403,10 +403,10 @@
 			authors="crazypants" 
 			description="Compact conduits, painted things and access to your stuff through an eye of ender." />
 			
-		<mod name="Ender IO Addons" version="0.9.9" 
-			url="packs/VaygrimsChance/files/1.7.10/Core/EnderIOAddons-1.7.10-2.3.0.421_beta-0.9.9.036_beta.jar" 
-			file="EnderIOAddons-1.7.10-2.3.0.421_beta-0.9.9.036_beta.jar" 
-			md5="a0a140133333c740c165814b4e97ad3d" 
+		<mod name="Ender IO Addons" version="0.9.12" 
+			url="packs/VaygrimsChance/files/1.7.10/Core/EnderIOAddons-1.7.10-2.3.0.421_beta-0.9.12.040_beta.jar" 
+			file="EnderIOAddons-1.7.10-2.3.0.421_beta-0.9.12.040_beta.jar" 
+			md5="70949ccf0bc2d3ac10ef8a343b305da8" 
 			download="server" type="mods" 
 			website="http://enderioaddons.loenwind.info" 
 			authors="HenryLoenwind" 
@@ -484,7 +484,7 @@
 			authors="Myrathi" 
 			description="Provides horsemeat, cleverly disguised as beef. Also, glue (slime balls)." />
 
-		<mod name="Flats Signs" version="2.1.0.19" 
+		<mod name="Flat Signs" version="2.1.0.19" 
 			url="packs/VaygrimsChance/files/1.7.10/Core/FlatSigns-1.7.10-universal-2.1.0.19.jar" 
 			file="FlatSigns-1.7.10-universal-2.1.0.19.jar" 
 			md5="836efa16b25141b15b5db3dd157e155b"  
@@ -511,10 +511,19 @@
 			authors="LatvianModder" 
 			description="FTBUtilities" />
 			
-		<mod name="Garden Stuff" version="1.6.8" 
-			url="packs/VaygrimsChance/files/1.7.10/Core/GardenStuff-1.7.10-1.6.8.jar" 
-			file="GardenStuff-1.7.10-1.6.8.jar" 
-			md5="17bc0020c0ed783e28dc979df5431a5f" 
+		<mod name="Forbidden Magic" version="1.7.10-0.572" 
+			url="packs/VaygrimsChance/files/1.7.10/Core/Forbidden Magic-1.7.10-0.572.jar" 
+			file="Forbidden Magic-1.7.10-0.572.jar" 
+			md5="eaefd42ca7833aef96c12166c2460a88" 
+			download="server" type="mods" 
+			website="http://www.minecraftforum.net/topic/2305054-/" 
+			authors="SpitefulFox" 
+			description="Forbidden Magic is an addon to add many dark-themed things to Thaumcraft." />
+			
+		<mod name="Garden Stuff" version="1.7.0" 
+			url="packs/VaygrimsChance/files/1.7.10/Core/GardenStuff-1.7.10-1.7.0.jar" 
+			file="GardenStuff-1.7.10-1.7.0.jar" 
+			md5="5abcd31ea6aa0c174a67d5f459fe5fe3" 
 			download="server" type="mods" 
 			website="http://www.curseforge.com/projects/225903/" 
 			authors="jaquadro" 
@@ -565,10 +574,10 @@
 			authors="Jimeo Wan,Kobata" 
 			description="Tweaks to inventory handling for ease of use, including sorting and automatic replacement of broken tools or exhausted stacks of items." />
 			
-		<mod name="Iron Backpacks" version="1.1.2" 
-			url="packs/VaygrimsChance/files/1.7.10/Core/IronBackpacks-1.7.10-1.2.1.jar" 
-			file="IronBackpacks-1.7.10-1.2.1.jar" 
-			md5="3ce804e90e04c9eca728b59ecfb38c92" 
+		<mod name="Iron Backpacks" version="1.2.11" 
+			url="packs/VaygrimsChance/files/1.7.10/Core/IronBackpacks-1.7.10-1.2.11.jar" 
+			file="IronBackpacks-1.7.10-1.2.11.jar" 
+			md5="d5fb8ef242372cc0602a8030d82cd86c"  
 			download="server" type="mods" 
 			website="http://www.curseforge.com/projects/227049/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/iron-backpacks?gameCategorySlug=mc-mods&amp;projectID=227049&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=xwason%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG." 
 			authors="gr8pefish" 
@@ -610,10 +619,10 @@
 			authors="Ace5852"
 			description="Dirt, thats also a liquid! Please, dirt responsibly." />
 			
-		<mod name="Logistics Pipes" version="0.9.3.69" 
-			url="packs/VaygrimsChance/files/1.7.10/Core/logisticspipes-0.9.3.69.jar" 
-			file="logisticspipes-0.9.3.69.jar" 
-			md5="2df98187810f1d437238c8b0e6e80d8a" 
+		<mod name="Logistics Pipes" version="0.9.3.70" 
+			url="packs/VaygrimsChance/files/1.7.10/Core/logisticspipes-0.9.3.70.jar" 
+			file="logisticspipes-0.9.3.70.jar" 
+			md5="a38b79bbf2c7add2638fe566b9ac9cb5"  
 			download="server" type="mods" 
 			website="http://www.curseforge.com/projects/232838/" 
 			authors="RS485,davboecki,theZorro266" 
@@ -729,10 +738,10 @@
 			authors="bdew" 
 			description="Adds in mod integration into NEI by showing bee breeding information as well as other helpful mod plugins." />
 			
-		<mod name="NEI Integration" version="1.0.13" 
-			url="packs/VaygrimsChance/files/1.7.10/Core/NEIIntegration-MC1.7.10-1.0.13.jar" 
-			file="NEIIntegration-MC1.7.10-1.0.13.jar" 
-			md5="3f9bfe0c7a045b2a271826fa69926f09" 
+		<mod name="NEI Integration" version="1.1.0" 
+			url="packs/VaygrimsChance/files/1.7.10/Core/NEIIntegration-MC1.7.10-1.1.0.jar" 
+			file="NEIIntegration-MC1.7.10-1.1.0.jar" 
+			md5="234566023b1a7d49ab889e3326d843ff" 
 			download="server" type="mods" 
 			website="http://www.curseforge.com/projects/225251/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/nei-integration?gameCategorySlug=mc-mods&amp;projectID=225251&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=tonbro96%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_" 
 			authors="tonius11" 
@@ -801,10 +810,28 @@
 			authors="Mikeemoo" 
 			description="This is required for all of OpenBlocks mods." />
 			
-		<mod name="Open Peripherals" version="AIO-5" 
-			url="packs/VaygrimsChance/files/1.7.10/Core/OpenPeripheral-1.7.10-AIO-5.jar" 
-			file="OpenPeripheral-1.7.10-AIO-5.jar" 
-			md5="e18f581f616b49eaf5e9ae43e735c501" 
+		<mod name="Open Peripherals [Addons]" version="0.4" 
+			url="packs/VaygrimsChance/files/1.7.10/Core/OpenPeripheralAddons-1.7.10-0.4.jar" 
+			file="OpenPeripheralAddons-1.7.10-0.4.jar" 
+			md5="f2d40d48f47df5684b459c863fe078cb" 
+			download="server" type="mods" 
+			website="http://www.openblocks.info/" donation="http://www.patreon.com/openmods" 
+			authors="Mikeemoo" 
+			description="Adds the ability to use other mods blocks as OpenComputers peripherals!" />
+			
+		<mod name="Open Peripherals [Core]" version="1.2" 
+			url="packs/VaygrimsChance/files/1.7.10/Core/OpenPeripheralCore-1.7.10-1.2.jar" 
+			file="OpenPeripheralCore-1.7.10-1.2.jar" 
+			md5="fd4dd67ac7c85d44ad3c5aa08f052dc1"  
+			download="server" type="mods" 
+			website="http://www.openblocks.info/" donation="http://www.patreon.com/openmods" 
+			authors="Mikeemoo" 
+			description="Adds the ability to use other mods blocks as OpenComputers peripherals!" />
+			
+		<mod name="Open Peripherals [Integration]" version="0.3" 
+			url="packs/VaygrimsChance/files/1.7.10/Core/OpenPeripheralIntegration-1.7.10-0.3.jar" 
+			file="OpenPeripheralIntegration-1.7.10-0.3.jar" 
+			md5="5540f0205e7766bf6310b4ac7b055018" 
 			download="server" type="mods" 
 			website="http://www.openblocks.info/" donation="http://www.patreon.com/openmods" 
 			authors="Mikeemoo" 
@@ -819,10 +846,10 @@
 			authors="TheTemportalist" 
 			description="Library mod for TheTemportalist" />
 
-		<mod name="Pam&apos;s Harvestcraft" version="1.7.10k" 
-			url="packs/VaygrimsChance/files/1.7.10/Core/Pams HarvestCraft 1.7.10k.jar" 
-			file="Pams HarvestCraft 1.7.10k.jar" 
-			md5="79d8cff0cb5a63202f5e21ba6f839748"  
+		<mod name="Pam&apos;s Harvestcraft" version="1.7.10Lb" 
+			url="packs/VaygrimsChance/files/1.7.10/Core/Pams HarvestCraft 1.7.10Lb.jar" 
+			file="Pams HarvestCraft 1.7.10Lb.jar" 
+			md5="27115781353d0528f6f1c280e48c7ae1"   
 			download="server" type="mods" 
 			website="http://www.minecraftforum.net/topic/402069-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=UMVYJNMULKL2W&amp;lc=US&amp;item_name=Pam%27s%20Mods&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted" 
 			authors="MatrexsVigil" 
@@ -846,10 +873,10 @@
 			authors="Planetguy" 
 			description="Library" />
 			
-		<mod name="Pressure Pipes" version="1.2.4.124" 
-			url="packs/VaygrimsChance/files/1.7.10/Core/pressure-1.2.4.124-mc1.7.10.jar" 
-			file="pressure-1.2.4.124-mc1.7.10.jar" 
-			md5="20fb5f7c5b6ea2b6c45633d787160d3e" 
+		<mod name="Pressure Pipes" version="1.2.5.125" 
+			url="packs/VaygrimsChance/files/1.7.10/Core/pressure-1.2.5.125-mc1.7.10.jar" 
+			file="pressure-1.2.5.125-mc1.7.10.jar" 
+			md5="a4463ffb64d51816de4571f7731f36e2" 
 			download="server" type="mods" 
 			website="http://www.bdew.net/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/pressure-pipes?gameCategorySlug=mc-mods&amp;projectID=221214&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=blackdew%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_L" 
 			authors="bdew" 
@@ -945,6 +972,15 @@
 			authors="McJty" 
 			description="RedFlux tools" />
 			
+		<mod name="Sanguimancy" version="1.7.10-1.1.9-33" 
+			url="packs/VaygrimsChance/files/1.7.10/Core/Sanguimancy-1.7.10-1.1.9-33.jar" 
+			file="Sanguimancy-1.7.10-1.1.9-33.jar" 
+			md5="27e711890ca712e8bd31dbe9b0d699dc" 
+			download="server" type="mods" 
+			website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2194354-blood-magic-addon-sanguimancy" 
+			authors="Tombenpotter" 
+			description="A Blood Magic addon adding all kind of stuff" />
+			
 		<mod name="Simply Jetpacks" version="1.5.3" 
 			url="packs/VaygrimsChance/files/1.7.10/Core/SimplyJetpacks-MC1.7.10-1.5.3.jar" 
 			file="SimplyJetpacks-MC1.7.10-1.5.3.jar" 
@@ -954,10 +990,10 @@
 			authors="tonius11" 
 			description="Redstone Flux jetpacks and more" />
 
-		<mod name="Storage Drawers" version="1.7.2" 
-			url="packs/VaygrimsChance/files/1.7.10/Core/StorageDrawers-1.7.10-1.7.2.jar" 
-			file="StorageDrawers-1.7.10-1.7.2.jar" 
-			md5="025e6176f6b9fdb509a9152bc6d058cb" 
+		<mod name="Storage Drawers" version="1.7.5" 
+			url="packs/VaygrimsChance/files/1.7.10/Core/StorageDrawers-1.7.10-1.7.5.jar" 
+			file="StorageDrawers-1.7.10-1.7.5.jar" 
+			md5="7fd21bda8474c599048b373d0c02836b"  
 			download="server" type="mods" 
 			website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2198533" 
 			authors="jaquadro"
@@ -1108,28 +1144,28 @@
 			description="It&apos;s a kind of magic" />
 			
 		<!-- ModTweaker Scripts -->
-		<mod name="MineTweaker Scripts" version="VC3-1.0" 
-			url="packs/VaygrimsChance/files/1.7.10/Scripts/scripts-VC3-1.0.zip" 
-			file="scripts-VC3-1.0.zip" 
-			md5="2b4f3bbf17a9cf60dc7f1a79cc284019" 
+		<mod name="MineTweaker Scripts" version="VC3-1.1" 
+			url="packs/VaygrimsChance/files/1.7.10/Scripts/scripts-VC3-1.1.zip" 
+			file="scripts-VC3-1.1.zip" 
+			md5="24d64ff308a942cac004efe72104063c" 
 			download="server" type="extract" extractto="root"
 			website="http://www.vaygrim.com" 
 			authors="The Vaygrims Chance 3 Team"
 			description="Minetweaker scripts." />
 			
-		<mod name="FTB Utils Guides" version="VC3-1.0" 
-			url="packs/VaygrimsChance/files/1.7.10/Scripts/modpack-VC3-1.0.zip" 
-			file="modpack-VC3-1.0.zip" 
-			md5="f5b36716f5b8513789c2c261c3450e20" 
+		<mod name="FTB Utils Guides" version="VC3-1.1" 
+			url="packs/VaygrimsChance/files/1.7.10/Scripts/modpack-VC3-1.1.zip" 
+			file="modpack-VC3-1.1.zip" 
+			md5="1f970fe7971af67927588f82d7d7da9e"
 			download="server" type="extract" extractto="root"
 			website="http://www.vaygrim.com" 
 			authors="The Vaygrims Chance 3 Team"
 			description="In-game guides for FTB Utils" />
 			
-		<mod name="FTB Utils Config" version="VC3-1.0" 
-			url="packs/VaygrimsChance/files/1.7.10/Scripts/local-VC3-1.0.zip" 
-			file="local-VC3-1.0.zip" 
-			md5="2eef8c9b5fe546e6fab0a6b6cc30564c" 
+		<mod name="FTB Utils Config" version="VC3-1.1" 
+			url="packs/VaygrimsChance/files/1.7.10/Scripts/local-VC3-1.1.zip" 
+			file="local-VC3-1.1.zip" 
+			md5="6f8c25bb0f1e714bc5a22e5bcf30b947" 
 			download="server" type="extract" extractto="root" 
 			website="http://www.vaygrim.com" 
 			authors="The Vaygrims Chance 3 Team"

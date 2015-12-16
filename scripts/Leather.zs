@@ -5,4 +5,4 @@ var leather = <minecraft:leather>;
 furnace.addRecipe(leather, zombie_flesh);
 
 // Craft Zombie flesh into Leather 4:1
-recipes.addShaped(leather * 4, [[zombie_flesh, zombie_flesh, null],[zombie_flesh, zombie_flesh, null],[null, null, null]]);
+recipes.addShaped(leather, [[zombie_flesh, zombie_flesh, null],[zombie_flesh, zombie_flesh, null],[null, null, null]]);
