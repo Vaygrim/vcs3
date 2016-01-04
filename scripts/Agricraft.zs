@@ -208,3 +208,8 @@ SeedMutation.add(waterArtichokeSeed, artichokeSeed, waterSeed);
 SeedMutation.add(snowbellSeed, blueOrchidSeed, waterSeed);
 SeedMutation.add(wormwoodSeed, daisySeed, quicksilverSeed);
 SeedMutation.add(wolfsbaneSeed, dandelionSeed, dyeSeed);
+
+//Agricraft seeds from Vanilla plants
+//	to help with the starter plants, these are 1st tier Agricraft breeding
+recipes.addShapeless(<AgriCraft:seedSugarcane> * 2, [<minecraft:reeds>, <minecraft:reeds>]);
+recipes.addShapeless(<AgriCraft:seedCactus> * 2, [<minecraft:cactus>, <minecraft:cactus>]);

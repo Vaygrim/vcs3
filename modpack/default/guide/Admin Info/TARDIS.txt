@@ -1,0 +1,7 @@
+§1§l TARDIS Mod Admin commands§r
+
+Keep in mind that each player's TARDIS is actually a private dimension. The mod keeps a registry of which player owns which dimension
+
+§0§l /treg list§r: list players with dimension#
+§0§l /treg set <playername> <dim#>§r: register a dimension to a player
+§0§l /treg remove <playername>§r: remove a player's dimension registration
