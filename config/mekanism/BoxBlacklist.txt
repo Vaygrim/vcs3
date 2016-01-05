@@ -2,5 +2,11 @@
 # Proper syntax is "NAME:META". Example (for stone):
 # stone:0
 
-# Boxing the Analyzer results in both objects being deleted
+# Boxing the Seed Analyzer results in both objects being deleted
 AgriCraft:seedAnalyzer:0
+
+# Thaumcraft Nodes
+Thaumcraft:blockAiry:0
+
+# Not Enough Wands illuminating orbs
+NotEnoughWands:lightBlock:0
