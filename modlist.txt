@@ -17,7 +17,7 @@ CodeChickenCore-1.7.10-1.0.7.47-universal
 CoFHCore-[1.7.10]3.0.3-303
 ColorblindHelper-1.7.10-1.0.1.3
 cookingbook-mc1.7.10-1.0.134
-darkcore-0.3-83
+darkcore-0.3-78
 Decocraft-2.2.1_1.7.10
 DummyCore-2.0.1710.0A
 EnderCore-1.7.10-0.2.0.31_beta

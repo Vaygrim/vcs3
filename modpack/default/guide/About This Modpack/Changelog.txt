@@ -1,5 +1,20 @@
 §1§lChangelog:
 Vaygrim's Chance Season 3
-v1.0§r
+v1.2§r
 
-No changes! This pack is brand new!
+§4§lNOTICE!§r
+The §lAdvanced Systems Manager§r mod will be removed in the next release (v1.3) due to unresolved technical issues.
+
+§lChanges:§r
+·  Many minor config tweaks to enhance gameplay.
+·  Grass can drop Ink Sacs
+·  Removed Catwalk speed boost
+·  Increased Gold, Diamond, Lapis, and Emerald spawn rates
+·  Creosote can only be made in a Coke Oven
+·  Updated VC3 logo
+·  Additions to the in-game manuals
+·  Added special recipes from VC2
+·  Craftable Enderman heads!
+·  Fixed TARDIS uncoordinated flight issue
+·  Added EMC values to many EnderIO, Thermal Foundation items
+·  Cannot box Aura Nodes or Illuminating Orbs
