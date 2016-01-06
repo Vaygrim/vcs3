@@ -1,0 +1,47 @@
+/*
+*/
+{
+  "comment": "Mekanism EMC definitions",
+  "groups": {
+    "mekanism components": {
+      "comment":"Base components crafted from raw materials",
+      "conversions": [
+	{"o":"Mekanism:EnrichedAlloy|0", "i":["minecraft:redstone|0", "OD|ingotIron"]},
+	{"o":"Mekanism:ReinforcedAlloy|0", "i":["Mekanism:EnrichedAlloy|0", "Mekanism:OtherDust|0"]},
+	{"o":"Mekanism:AtomicAlloy|0", "i":["Mekanism:ReinforcedAlloy|0", "Mekanism:OtherDust|5"]},
+	{"o":"Mekanism:ControlCircuit|0", "i":["minecraft:redstone|0", "Mekanism:Ingot|1"]},
+	{"o":"Mekanism:ControlCircuit|1", "i":["Mekanism:EnrichedAlloy|0", "Mekanism:ControlCircuit|0", "Mekanism:EnrichedAlloy|0"]},
+	{"o":"Mekanism:ControlCircuit|2", "i":["Mekanism:ReinforcedAlloy|0", "Mekanism:ControlCircuit|1", "Mekanism:ReinforcedAlloy|0"]},
+	{"o":"Mekanism:ControlCircuit|3", "i":["Mekanism:AtomicAlloy|0", "Mekanism:ControlCircuit|2", "Mekanism:AtomicAlloy|0"]}
+      ]
+    }
+  },
+  "values": {
+    "before": {
+	/* core materials - some values taken from equivelent items in the pack */
+	"Mekanism:Ingot|0": 8656,
+	"Mekanism:Ingot|3": 896,
+	"Mekanism:Ingot|4": 378,
+	"Mekanism:Dust|0": 256,
+	"Mekanism:Dust|1": 2048,
+	"Mekanism:Dust|2": 512,
+	"Mekanism:Dust|3": 128,
+	"Mekanism:Dust|4": 256,
+	"Mekanism:Dust|5": 512,
+	"Mekanism:Dust|6": 512,
+	"Mekanism:OtherDust|0": 8192,
+	"Mekanism:OtherDust|1": 378,
+	"Mekanism:OtherDust|2": 512,
+	"Mekanism:OtherDust|5": 8208,
+	"Mekanism:OtherDust|6": 16,
+	"Mekanism:CompressedCarbon|0": 32,
+	"Mekanism:CompressedRedstone|0": 64,
+	"Mekanism:CompressedDiamond|0": 8192,
+	"Mekanism:CompressedObsidian|0": 8208
+    },
+    "after": {
+    },
+    "conversion": [
+    ]
+  }
+}
