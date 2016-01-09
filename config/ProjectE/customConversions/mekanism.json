@@ -1,5 +1,3 @@
-/*
-*/
 {
   "comment": "Mekanism EMC definitions",
   "groups": {
@@ -46,18 +44,27 @@
     "mekanism components": {
       "comment":"Base components crafted from raw materials",
       "conversions": [
-	{"o":"Mekanism:EnrichedAlloy|0",   "i":["minecraft:redstone|0", "OD|ingotIron"]},
-	{"o":"Mekanism:ReinforcedAlloy|0", "i":["Mekanism:EnrichedAlloy|0", "OD|dustDiamond"]},
-	{"o":"Mekanism:AtomicAlloy|0",     "i":["Mekanism:ReinforcedAlloy|0", "OD|dustRefinedObsidian"]},
-	{"o":"Mekanism:ControlCircuit|0",  "i":["minecraft:redstone|0", "OD|ingotOsmium"]},
-	{"o":"Mekanism:ControlCircuit|1",  "i":["Mekanism:EnrichedAlloy|0", "Mekanism:ControlCircuit|0", "Mekanism:EnrichedAlloy|0"]},
-	{"o":"Mekanism:ControlCircuit|2",  "i":["Mekanism:ReinforcedAlloy|0", "Mekanism:ControlCircuit|1", "Mekanism:ReinforcedAlloy|0"]},
-	{"o":"Mekanism:ControlCircuit|3",  "i":["Mekanism:AtomicAlloy|0", "Mekanism:ControlCircuit|2", "Mekanism:AtomicAlloy|0"]},
-	{"o":"Mekanism:Substrate|0",  "i":["Mekanism:BioFuel|0", "Mekanism:BioFuel|0"]},
-	{"o":"Mekanism:Polyethene|0",  "i":["Mekanism:Substrate|0"]},
-	{"o":"Mekanism:Polyethene|1",  "i":{"Mekanism:Polyethene|0": 4}},
-	{"o":"Mekanism:Polyethene|2",  "i":{"Mekanism:Polyethene|0": 3}},
-	{"o":"Mekanism:Polyethene|3",  "i":{"Mekanism:Polyethene|1": 2}}
+        {"o":"Mekanism:EnrichedAlloy|0",   "i":["minecraft:redstone|0", "OD|ingotIron"]},
+        {"o":"Mekanism:ReinforcedAlloy|0", "i":["Mekanism:EnrichedAlloy|0", "OD|dustDiamond"]},
+        {"o":"Mekanism:AtomicAlloy|0",     "i":["Mekanism:ReinforcedAlloy|0", "OD|dustRefinedObsidian"]},
+        {"o":"Mekanism:ControlCircuit|0",  "i":["minecraft:redstone|0", "OD|ingotOsmium"]},
+        {"o":"Mekanism:ControlCircuit|1",  "i":["Mekanism:EnrichedAlloy|0", "Mekanism:ControlCircuit|0", "Mekanism:EnrichedAlloy|0"]},
+        {"o":"Mekanism:ControlCircuit|2",  "i":["Mekanism:ReinforcedAlloy|0", "Mekanism:ControlCircuit|1", "Mekanism:ReinforcedAlloy|0"]},
+        {"o":"Mekanism:ControlCircuit|3",  "i":["Mekanism:AtomicAlloy|0", "Mekanism:ControlCircuit|2", "Mekanism:AtomicAlloy|0"]},
+        {"o":"Mekanism:Substrate|0",  "i":["Mekanism:BioFuel|0", "Mekanism:BioFuel|0"]},
+        {"o":"Mekanism:Polyethene|0",  "i":["Mekanism:Substrate|0"]},
+        {"o":"Mekanism:Polyethene|1",  "i":{"Mekanism:Polyethene|0": 4}},
+        {"o":"Mekanism:Polyethene|2",  "i":{"Mekanism:Polyethene|0": 3}},
+        {"o":"Mekanism:Polyethene|3",  "i":{"Mekanism:Polyethene|1": 2}}
+      ]
+    },
+    "mekanism energy": {
+      "comment":"Energy related Mekanism items (includes machine upgrades)",
+      "conversions": [
+	{"o":"Mekanism:SpeedUpgrade|0",    "i":["Mekanism:EnrichedAlloy|0", "Mekanism:EnrichedAlloy|0", "OD|dustOsmium", "OD|blockGlass"]},
+	{"o":"Mekanism:EnergyUpgrade|0",   "i":["Mekanism:EnrichedAlloy|0", "Mekanism:EnrichedAlloy|0", "OD|dustGold", "OD|blockGlass"]},
+	{"o":"Mekanism:FilterUpgrade|0",   "i":["Mekanism:EnrichedAlloy|0", "Mekanism:EnrichedAlloy|0", "OD|dustTin", "OD|blockGlass"]},
+	{"o":"Mekanism:GasUpgrade|0",      "i":["Mekanism:EnrichedAlloy|0", "Mekanism:EnrichedAlloy|0", "OD|dustIron", "OD|blockGlass"]}
       ]
     },
     "mekanism armor": {
@@ -88,7 +95,6 @@
   },
   "values": {
     "before": {
-	/* core materials - some values taken from equivelent items in the pack */
 	"OD|ingotRefinedObsidian": 8656,
 	"OD|ingotRefinedGlowstone": 896,
 	"Mekanism:Ingot|4": 378,
