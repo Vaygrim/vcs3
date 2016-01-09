@@ -1145,29 +1145,29 @@
 			
 		<!-- ModTweaker Scripts -->
 		<mod name="MineTweaker Scripts" version="VC3-1.2" 
-			url="packs/VaygrimsChance/files/1.7.10/Scripts/scripts-VC3-1.2.zip" 
-			file="scripts-VC3-1.2.zip" 
-			md5="24d64ff308a942cac004efe72104063c" 
-			download="server" type="extract" extractto="root"
-			website="http://www.vaygrim.com" 
+		    url="packs/VaygrimsChance/files/1.7.10/Scripts/scripts-VC3-1.2.zip" 
+		    file="scripts-VC3-1.2.zip" 
+		    md5="b1259c1ab8be5c6f873c37af34a09362" 
+		    download="server" type="mods" 
+		    website="http://www.vaygrim.com" 
 			authors="The Vaygrims Chance 3 Team"
 			description="Minetweaker scripts." />
 			
 		<mod name="FTB Utils Guides" version="VC3-1.2" 
-			url="packs/VaygrimsChance/files/1.7.10/Scripts/modpack-VC3-1.2.zip" 
-			file="modpack-VC3-1.2.zip" 
-			md5="1f970fe7971af67927588f82d7d7da9e"
-			download="server" type="extract" extractto="root"
-			website="http://www.vaygrim.com" 
+		    url="packs/VaygrimsChance/files/1.7.10/Scripts/modpack-VC3-1.2.zip" 
+		    file="modpack-VC3-1.2.zip" 
+		    md5="eabecae2624ba4689e04082e2157fd9b" 
+		    download="server" type="mods" 
+		    website="http://www.vaygrim.com" 
 			authors="The Vaygrims Chance 3 Team"
 			description="In-game guides for FTB Utils" />
 			
 		<mod name="FTB Utils Config" version="VC3-1.2" 
-			url="packs/VaygrimsChance/files/1.7.10/Scripts/local-VC3-1.2.zip" 
-			file="local-VC3-1.2.zip" 
-			md5="6f8c25bb0f1e714bc5a22e5bcf30b947" 
-			download="server" type="extract" extractto="root" 
-			website="http://www.vaygrim.com" 
+		    url="packs/VaygrimsChance/files/1.7.10/Scripts/local-VC3-1.2.zip" 
+		    file="local-VC3-1.2.zip" 
+		    md5="7cf60ebc9630b661249f5cf279fe08c9" 
+		    download="server" type="mods" 
+		    website="http://www.vaygrim.com" 
 			authors="The Vaygrims Chance 3 Team"
 			description="FTB Utils configs" />
 		
