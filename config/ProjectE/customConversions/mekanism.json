@@ -52,7 +52,12 @@
 	{"o":"Mekanism:ControlCircuit|0",  "i":["minecraft:redstone|0", "OD|ingotOsmium"]},
 	{"o":"Mekanism:ControlCircuit|1",  "i":["Mekanism:EnrichedAlloy|0", "Mekanism:ControlCircuit|0", "Mekanism:EnrichedAlloy|0"]},
 	{"o":"Mekanism:ControlCircuit|2",  "i":["Mekanism:ReinforcedAlloy|0", "Mekanism:ControlCircuit|1", "Mekanism:ReinforcedAlloy|0"]},
-	{"o":"Mekanism:ControlCircuit|3",  "i":["Mekanism:AtomicAlloy|0", "Mekanism:ControlCircuit|2", "Mekanism:AtomicAlloy|0"]}
+	{"o":"Mekanism:ControlCircuit|3",  "i":["Mekanism:AtomicAlloy|0", "Mekanism:ControlCircuit|2", "Mekanism:AtomicAlloy|0"]},
+	{"o":"Mekanism:Substrate|0",  "i":["Mekanism:BioFuel|0", "Mekanism:BioFuel|0"]},
+	{"o":"Mekanism:Polyethene|0",  "i":["Mekanism:Substrate|0"]},
+	{"o":"Mekanism:Polyethene|1",  "i":{"Mekanism:Polyethene|0": 4}},
+	{"o":"Mekanism:Polyethene|2",  "i":{"Mekanism:Polyethene|0": 3}},
+	{"o":"Mekanism:Polyethene|3",  "i":{"Mekanism:Polyethene|1": 2}}
       ]
     },
     "mekanism armor": {
@@ -102,7 +107,8 @@
 	"Mekanism:CompressedCarbon|0": 32,
 	"Mekanism:CompressedRedstone|0": 64,
 	"Mekanism:CompressedDiamond|0": 8192,
-	"Mekanism:CompressedObsidian|0": 8208
+	"Mekanism:CompressedObsidian|0": 8208,
+	"Mekanism:BioFuel|0": 16
     },
     "after": {
     },
