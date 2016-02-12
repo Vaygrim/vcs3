@@ -42,7 +42,6 @@ gearswap-1.2.3.jar
 Guide-API-1.7.10-1.0.1-23.jar
 HelpFixer-1.0.7.jar
 ImmersiveEngineering-0.7.1.2.jar
-INpureCore-[1.7.10]1.0.0B9-62.jar
 InventoryTweaks-1.59-asie-lts.jar
 IronBackpacks-1.7.10-1.2.15.jar
 ironchest-1.7.10-6.0.62.742-universal.jar
