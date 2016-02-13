@@ -73,5 +73,166 @@
       "overlay": "Ard"
     }
   ],
-  "custom": []
+  "custom": [
+    {
+      "stack": "ingotYellorium",
+      "overlay": "Ye"
+    },
+    {
+      "stack": "ingotCyanite",
+      "overlay": "Cy"
+    },
+    {
+      "stack": "ingotWroughtIron",
+      "overlay": "WFe"
+    },
+    {
+      "stack": "ingotGraphite",
+      "overlay": "Gr"
+    },
+    {
+      "stack": "ingotBlutonium",
+      "overlay": "Bl"
+    },
+    {
+      "stack": "ingotLudicrite",
+      "overlay": "Lu"
+    },
+    {
+      "stack": "ingotEnderiumBase",
+      "overlay": "EnB"
+    },
+    {
+      "stack": "ExtraUtilities:unstableingot",
+      "overlay": "Un"
+    },
+    {
+      "stack": "ExtraUtilities:bedrockiumIngot",
+      "overlay": "Be"
+    },
+    {
+      "stack": "ingotWroughtIron",
+      "overlay": "WFe"
+    },
+    {
+      "stack": "ingotConstantan",
+      "overlay": "Con"
+    },
+    {
+      "stack": "ingotHOPGraphite",
+      "overlay": "GrX"
+    },
+    {
+      "stack": "ingotRefinedObsidian",
+      "overlay": "ObR"
+    },
+    {
+      "stack": "ingotOsmium",
+      "overlay": "Os"
+    },
+    {
+      "stack": "ingotRefinedGlowstone",
+      "overlay": "GlR"
+    },
+    {
+      "stack": "ingotMeatRaw",
+      "overlay": "Raw"
+    },
+    {
+      "stack": "ingotMeat",
+      "overlay": "Mea"
+    },
+    {
+      "stack": "ingotRedAlloy",
+      "overlay": "AyR"
+    },
+    {
+      "stack": "ingotChronosteel",
+      "overlay": "CSt"
+    },
+    {
+      "stack": "ingotDalekanium",
+      "overlay": "Dal"
+    },
+    {
+      "stack": "ingotThaumium",
+      "overlay": "Tha"
+    },
+    {
+      "stack": "ingotVoid",
+      "overlay": "Voi"
+    },
+    {
+      "stack": "ingotMithril",
+      "overlay": "Man"
+    },
+    {
+      "stack": "ingotSignalum",
+      "overlay": "Sig"
+    },
+    {
+      "stack": "ingotLumium",
+      "overlay": "Lum"
+    },
+    {
+      "stack": "ingotEnderium",
+      "overlay": "En"
+    },
+    {
+      "stack": "ingotElectrumFlux",
+      "overlay": "EcF"
+    },
+    {
+      "stack": "ingotDarkSoularium",
+      "overlay": "SolD"
+    },
+    {
+      "stack": "ingotThauminite",
+      "overlay": "Thi"
+    },
+    {
+      "stack": "ingotKboldite",
+      "overlay": "Ko"
+    },
+    {
+      "stack": "ingotElectricalSteel",
+      "overlay": "ElS"
+    },
+    {
+      "stack": "ingotEnergeticAlloy",
+      "overlay": "EnA"
+    },
+    {
+      "stack": "ingotVibrantAlloy",
+      "overlay": "VbA"
+    },
+    {
+      "stack": "ingotRedstoneAlloy",
+      "overlay": "RdA"
+    },
+    {
+      "stack": "ingotConductiveIron",
+      "overlay": "FeC"
+    },
+    {
+      "stack": "ingotPulsatingIron",
+      "overlay": "FeP"
+    },
+    {
+      "stack": "ingotDarkSteel",
+      "overlay": "StlD"
+    },
+    {
+      "stack": "ingotSoularium",
+      "overlay": "Sol"
+    },
+    {
+      "stack": "ingotBrick",
+      "overlay": "Bk"
+    },
+    {
+      "stack": "ingotBrickNether",
+      "overlay": "BkN"
+    }
+  ]
 }
