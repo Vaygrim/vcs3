@@ -10,6 +10,7 @@ BigReactors-0.4.3A.jar
 BloodMagic-1.7.10-1.3.3-17.jar
 buildcraft-7.1.14.jar
 buildcraft-compat-7.1.3.jar
+buildersguides-1.7.10-1.0.2.jar
 Carpenters Blocks v3.3.7 - MC 1.7.10.jar
 carpentersblocks
 catwalks-2.0.3.jar

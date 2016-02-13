@@ -1,0 +1,23 @@
+{
+    "bauxite": {
+        "template": "uniform",
+        "block": {
+			"name": "ImmersiveEngineering:ore",
+			"metadata": 1
+		},
+        "clusterSize": 8,
+        "numClusters": 20,
+        "minHeight": 35,
+        "maxHeight": 70,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+			"all"
+		],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}
