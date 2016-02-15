@@ -1,0 +1,5 @@
+§4§lIMPORTANT pack change notice§r
+
+Be aware that the §lAdvanced Systems Manager§r mod (ASM) has been removed from v1.3 due to unresolved technical issues.
+
+To avoid instability, you should remove all ASM items from the world in preparation before updating.

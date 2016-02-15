@@ -1,7 +1,5 @@
 §1§l RF Tools Admin commands§r
 
-The Teleporter Probe is a non-craftable item that can be a very handy debugging tool. Using it will show a list of all receivers. Double-click a receiver to teleport.
-
 These are the more common commands. For a full list, consult the RF Tools Wiki:
 [lnkRFToolsAdminCommands]
 
