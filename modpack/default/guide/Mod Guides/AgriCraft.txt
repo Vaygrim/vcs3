@@ -9,7 +9,7 @@ Create a stack of crop sticks (you will need a LOT of these!). Make some farming
 §0§lTips:§r
 -  The cloned/mutated plant that grows onto double cropsticks will be affected by the other plants in ALL adjacent blocks.
 -  Give yourself plenty of room to avoid unintended influences, and keep your mutations pure.
--  Use the Clippers to quickly clone a plant without waiting for it to mature.
+-  Use the Clippers to quickly close a plant without waiting for it to mature.
 -  The various growth-accelerating items (Watering Can, Fertilized Earth, etc.) will dramatically increase your productivity.
 -  To move plants, use the Trowel to move plants from one cropstick to another.
 

@@ -1,16 +1,7 @@
 {
-  "links":
+  "images":
   {
-    "imgVaygrim":
-    {
-      "type": "image",
-      "link": "images/vaygrim.jpg" 
-    },
-	"imgVCS3":
-    {
-      "type": "image",
-      "link": "images/VC3-300x150.png" 
-    },
+    "imgVaygrim": "images/vaygrim.jpg",
 	"lnkAgriCraftCurse":
     {
       "type": "url",

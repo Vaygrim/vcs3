@@ -1,20 +1,25 @@
-Â§1Â§lChangelog:
+§1§lChangelog:
 Vaygrim's Chance Season 3
-v1.2Â§r
+v1.3§r
 
-Â§4Â§lNOTICE!Â§r
-The Â§lAdvanced Systems ManagerÂ§r mod will be removed in the next release (v1.3) due to unresolved technical issues.
+§l§4== NOTICE ==§r
+·  The Advanced Systems Manager has been removed. To be safe, you should remove ALL ASM blocks before updating to 1.3.
+·  Immersive Engineering adds Bauxite. Retrogen has been turned on so that Bauxite will populate. There will be some impact to initial chunk load times, but CoFH makes efforts to minimize this.
 
-Â§lChanges:Â§r
-Â·  Many minor config tweaks to enhance gameplay.
-Â·  Grass can drop Ink Sacs
-Â·  Removed Catwalk speed boost
-Â·  Increased Gold, Diamond, Lapis, and Emerald spawn rates
-Â·  Creosote can only be made in a Coke Oven
-Â·  Updated VC3 logo
-Â·  Additions to the in-game manuals
-Â·  Added special recipes from VC2
-Â·  Craftable Enderman heads!
-Â·  Fixed TARDIS uncoordinated flight issue
-Â·  Added EMC values to many 100+ items (thanks, Trunks9809!)
-Â·  Cannot box Aura Nodes or Illuminating Orbs
+§l== Mod Changes ==§r
+·  50+ mod updates
+·  Removed Advanced Systems Manager (see above)
+·  Removed MineMenu
+·  Added Armourer's Workshop
+·  Added Builder's Guides
+·  Added Immersive Engineering
+·  Added NetherPortalFix
+·  Added Quick Crafting
+·  Added Trash Slot
+
+§l== Config Changes ==§r
+·  Mekanism EMC updates, and more on the way
+·  Essence recipes for several stones, bauxite, packed ice
+·  More Colorblind Helper labels for more ingots
+·  Fixed some recipe conflicts
+·  OpenBlocks Sky block has been turned off

@@ -9,9 +9,5 @@ Using a looted or crafted Kontron Crystal, craft a key then right-click the key 
 §0§lTips:§r
 -  Make a library in your TARDIS, to get access to the TARDIS manual
 -  Activate the Land-Ground control prevent "landing" in mid-air... and the sudden drop thereafter.
--  Elevator names are coded with 3 numbers:
-    <a> vertical size
-    <b> intermediate levels
-    <c> built at level
 
 [lnkTARDISModCurseCurse]

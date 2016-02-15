@@ -4,7 +4,8 @@
 §0§l /spawn §r - Teleports player to overworld spawn
 §0§l /tpl [player] §r - Teleports to [player] if online or last location if offline
 §0§l /warp [ID] §r - Teleports player to server set warp [ID]
-§0§l /admin reload §r - Reloads configs for server and clients
+§0§l /reload §r - Reloads configs for server
+§0§l /reload_client §r - Reloads configs for client
 §0§l /admin setitemname [Name] §r - Sets item display name for held item
 §0§l /admin invsee [player] §r - If player is online, opens inventory. Armor top left, baubles top right.
 §0§l /admin setwarp [ID] §r - Sets warp [ID] to current player position
