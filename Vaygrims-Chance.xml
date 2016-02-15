@@ -1,6 +1,6 @@
 <version>		
 		<pack>
-			<version>VC3-1.2</version>
+			<version>VC3-1.3</version>
 			<minecraft>1.7.10</minecraft>
 			<memory>2048</memory>
 			<permgen>256</permgen>
@@ -242,8 +242,17 @@
 			download="server" type="mods" 
 			website="http://www.curseforge.com/projects/224472/" 
 			authors="squeek502" 
-			description="An API for modifying the food and hunger mechanics of Minecraft" 
-			/>
+			description="An API for modifying the food and hunger mechanics of Minecraft" />
+		
+		<mod name="Armourer&apos;s Workshop" version="1.7.10-0.38.1.98" 
+			url="packs/VaygrimsChance/files/1.7.10/Core/Armourers-Workshop-1.7.10-0.38.1.98.jar" 
+			file="Armourers-Workshop-1.7.10-0.38.1.98.jar" 
+			md5="277abf1a1c74e0a615bd9fc852ad2b4e" 
+			download="server" type="mods" 
+			website="https://github.com/RiskyKen/Armourers-Workshop" 
+			authors="RiskyKen" 
+			description="Minecraft armour customization mod." />
+		
 		<mod name="Automagy" version="0.27.1" 
 			url="packs/VaygrimsChance/files/1.7.10/Core/Automagy-1.7.10-0.27.1.jar" 
 			file="Automagy-1.7.10-0.27.1.jar" 
@@ -766,6 +775,15 @@
 			authors="PowerCrystals,TehKrush,AtomicStryker,skyboy026" 
 			description="Introduces mineable yet dangerous ores to the Nether" />
 
+		<mod name="NetherPortalFix" version="1.1.0" 
+			url="packs/VaygrimsChance/files/1.7.10/Core/netherportalfix-mc1.7.10-1.1.0.jar" 
+			file="netherportalfix-mc1.7.10-1.1.0.jar" 
+			md5="5d835766d4381d5d2ca80032269d5e46" 
+			download="server" type="mods" 
+			website="http://www.curseforge.com/projects/241160/" 
+			authors="Blay09" 
+			description="Ensures correct destinations when travelling back and forth through Nether Portals in Multiplayer." />
+		
 		<mod name="NotEnoughItems" version="1.0.5.120" 
 			url="packs/VaygrimsChance/files/1.7.10/Core/NotEnoughItems-1.7.10-1.0.5.120-universal.jar" 
 			file="NotEnoughItems-1.7.10-1.0.5.120-universal.jar" 
@@ -947,6 +965,14 @@
 			authors="Mr_TJP, ChickenBones"
 			description="Project:Red World module. Adds basalt and marble, as well as sweet volcanoes!" />
 			
+		<mod name="Quick Crafting" version="1.7.10-1.6" 
+			url="packs/VaygrimsChance/files/1.7.10/Core/QuickCrafting-1.7.10-1.6.jar" 
+			file="QuickCrafting-1.7.10-1.6.jar" 
+			md5="f01f811fc8ed97f6f1ed3b56a4f95b67" 
+			download="server" type="mods" 
+			website="http://www.curseforge.com/projects/237885/" 
+			description="Craft without crafting." />
+		
 		<mod name="Railcraft" version="9.8.0.0" 
 			url="packs/VaygrimsChance/files/1.7.10/Core/Railcraft_1.7.10-9.8.0.0.jar" 
 			file="Railcraft_1.7.10-9.8.0.0.jar" 
@@ -1174,10 +1200,10 @@
 			authors="The Vaygrims Chance Season3 Team" 
 			description="Minetweaker/Modtweaker scripts." />
 
-		<mod name="FTB Utils Guides" version="VC3-1.3 
-			url="packs/VaygrimsChance/files/1.7.10/Scripts/modpack-VC3-1.3.zip" 
-			file="modpack-VC3-1.3.zip" 
-			md5="a219d5fe19cca8d68d2eba7164045915" 
+		<mod name="FTB Utils Guides" version="VC3-1.3" 
+			url="packs/VaygrimsChance/files/1.7.10/Scripts/modpack_VC3-1.3.zip" 
+			file="modpack_VC3-1.3.zip" 
+			md5="e78d57691ee3ff0728177fc9fec5156e" 
 			download="server" type="mods" 
 			website="http://www.vaygrim.com" 
 			authors="The Vaygrims Chance 3 Team"

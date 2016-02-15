@@ -36,3 +36,9 @@ recipes.addShaped(<minecraft:packed_ice> * 16,
 	[[waterEssence, waterEssence], 
 	[waterEssence, airEssence]]
 	);
+
+// Craft Bauxite
+recipes.addShaped(<ImmersiveEngineering:ore:1> * 2, 
+	[[<magicalcrops:AirEssence>, <magicalcrops:SteelEssence>], 
+	[<magicalcrops:EarthEssence>, <magicalcrops:FireEssence>]]
+	);
