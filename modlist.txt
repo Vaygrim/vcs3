@@ -93,7 +93,6 @@ rftools-4.21.jar
 Sanguimancy-1.7.10-1.1.9-33.jar
 scripts-VC3-1.2.zip
 SimplyJetpacks-MC1.7.10-1.5.3.jar
-SpACore-1.7.10-01.05.11.jar
 StorageDrawers-1.7.10-1.7.7.jar
 Streams-0.1.6.jar
 tardismod-1.7.10-0.99-275.jar
