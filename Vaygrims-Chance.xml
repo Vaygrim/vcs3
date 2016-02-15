@@ -1201,9 +1201,9 @@
 			description="Minetweaker/Modtweaker scripts." />
 
 		<mod name="FTB Utils Guides" version="VC3-1.3" 
-			url="packs/VaygrimsChance/files/1.7.10/Scripts/modpack_VC3-1.3.zip" 
-			file="modpack_VC3-1.3.zip" 
-			md5="e78d57691ee3ff0728177fc9fec5156e" 
+			url="packs/VaygrimsChance/files/1.7.10/Scripts/modpack-VC3-1.3.zip" 
+			file="modpack-VC3-1.3.zip" 
+			md5="0138b9c58e775748c3a4f7365145684e" 
 			download="server" type="mods" 
 			website="http://www.vaygrim.com" 
 			authors="The Vaygrims Chance 3 Team"
