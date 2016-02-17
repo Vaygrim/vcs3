@@ -1194,7 +1194,7 @@
 		<mod name="Minetweaker/Modtweaker Scripts" version="VC3-1.3"
 			url="packs/VaygrimsChance/files/1.7.10/Scripts/scripts-VC3-1.3.zip" 
 			file="scripts-VC3-1.3.zip" 
-    		md5="207b22bba4ad7276c42f477db7c875db" 
+    			md5="7f0a5e1e77035ab92d6f2e4cb90e28b4" 
 			download="server" type="extract" extractto="root" 
 			website="http://www.vaygrim.com" 
 			authors="The Vaygrims Chance Season3 Team" 
@@ -1203,7 +1203,7 @@
 		<mod name="FTB Utils Guides" version="VC3-1.3" 
 			url="packs/VaygrimsChance/files/1.7.10/Scripts/modpack-VC3-1.3.zip" 
 			file="modpack-VC3-1.3.zip" 
-    		md5="9595c0cba89ec9ef4eba005f79c2a12c" 
+    			md5="9595c0cba89ec9ef4eba005f79c2a12c" 
 			download="server" type="extract" extractto="root" 
 			website="http://www.vaygrim.com" 
 			authors="The Vaygrims Chance 3 Team"
@@ -1214,7 +1214,7 @@
 			file="local-VC3-1.3.zip" 
 			md5="df919af8b998c06fccf2e74b56745af0" 
 			download="server" type="extract" extractto="root" 
-		    website="http://www.vaygrim.com" 
+		    	website="http://www.vaygrim.com" 
 			authors="The Vaygrims Chance 3 Team"
 			description="FTB Utils configs" />
 		
