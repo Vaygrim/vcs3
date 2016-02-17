@@ -11,4 +11,4 @@ Craft the Gear Swap block. The four squares on the block are the four customizab
 -  Each block has a different texture but does the same thing.
 -  Baubles can also be configured.
 
-[lnkGearSwapCurse]
+http://www.curse.com/mc-mods/minecraft/236610-gear-swapper

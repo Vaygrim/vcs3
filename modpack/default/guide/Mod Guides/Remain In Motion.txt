@@ -11,4 +11,4 @@ You will need the Remain In Motion Screwdriver to configure your structure. Craf
 -  Test each phase of the motion individually, before automating more complex motions.
 -  Only place chunk loaders on structures that have been thoroughly tested.
 
-[lnkRemainInMotionMCF]
+http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2104611-remain-in-motion-continuation-of-redstone-in

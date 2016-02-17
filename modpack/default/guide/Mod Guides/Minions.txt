@@ -9,4 +9,4 @@ You will need to do some killing to cause the minions to fear you. Once you're l
 §0§lTips:§r
 -  Be sure to set a destination chest before setting your minions to work
 
-[lnkMinionsCurse]
+http://www.curse.com/mc-mods/minecraft/227878-minecraft-minions

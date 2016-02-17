@@ -11,4 +11,4 @@ There is no tech tree to this mod -- it is a collection of useful items and bloc
 -  Compressed Cobblestone is a handy way to store all that cobble you'll be creating
 -  The Ender-Thermic Pump reduces potential lag-inducing liquid flows when pumping lava from the Nether
 
-[lnkExtraUtilitiesMCF]
+http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1443963-extra-utilities-v1-1-0k
