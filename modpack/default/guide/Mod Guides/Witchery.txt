@@ -8,4 +8,4 @@ This is a complex mod with several skill trees. A good place to start is by buil
 
 §0§lTips:§r
 -  Read the Witchery wiki! It is quite helpful
-[lnkWitchery]
+https://sites.google.com/site/witcherymod/

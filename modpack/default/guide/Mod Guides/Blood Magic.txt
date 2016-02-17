@@ -12,4 +12,4 @@ Food. You will need it to heal. Craft a Blood Altar and a Sacrificial Knife. Pla
 -  Leave lots of room around the Blood Altar, it will expand to a very large structure.
 -  The Dagger of Sacrifice will allow you to make use of another's essence, if you poke them with it while they are near the altar
 
-[lnkBloodMagicMCF]
+http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290532-1-7-10-2-1-6-4-blood-magic-v1-3-3-17-updated-nov

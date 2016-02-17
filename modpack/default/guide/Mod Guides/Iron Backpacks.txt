@@ -12,5 +12,4 @@ Craft a backpack! The "upgrade points" for each pack show how upgradeable the pa
 -  A backpack can be upgraded, so start with the lowest tier and add storage as you need.
 -  The Depth upgrade will allow you to access a pack within your pack
 
-[lnkIronBackpacksMCF]
-
+http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2331340-iron-backpacks

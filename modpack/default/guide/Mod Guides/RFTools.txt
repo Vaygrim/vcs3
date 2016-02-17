@@ -11,4 +11,4 @@ There is no tech tree for this mod. RFTools has two craftable in-game manuals, o
 -  An Enderman farm is a good way to collect Unknown Dimlets.
 -  Make sure to chunk load your dimension's power supply, and always have a exit plan for a collapsing dimension.
 
-[lnkRFToolsWiki]
+https://github.com/McJty/RFTools/wiki

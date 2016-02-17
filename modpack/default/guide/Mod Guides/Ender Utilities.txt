@@ -6,4 +6,4 @@ Ender Utilities adds many useful Ender-based tools and blocks to the game.
 §0§lGetting Started:§r
 All these items and blocks require Enderpearls in their crafting recipe, so you're going to need a steady supply. Some items are upgradeable, but you will need to craft the Ender Tool Workstation in order to install the upgrades.
 
-[lnkEnderUtilitiesCurse]
+http://www.curse.com/mc-mods/minecraft/224320-ender-utilities

@@ -12,4 +12,4 @@ Use 8 Minicio Essence and one Seed to create a Minicio Seed. Most recipes start 
 -  The various growth-accelerating items (Watering Can, Fertilized Earth, etc.) will dramatically increase your productivity.  
 -  Using Agricraft, you can breed improved plants that are MUCH more productive
 
-[lnkMagicalCropsCurse]
+http://www.curse.com/mc-mods/minecraft/228834-magical-crops

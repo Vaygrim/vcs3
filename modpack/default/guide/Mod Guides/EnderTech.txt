@@ -6,4 +6,4 @@ EnderTech is an add-on mod for Thermal Expansion. It adds Ender-based technology
 §0§lGetting Started:§r
 Because these items are expensive to build and require power infrastructure, EnderTech is usually accessed mid to late-game.
 
-[lnkEnderTechWiki]
+https://github.com/carrotengineer/EnderTech/wiki

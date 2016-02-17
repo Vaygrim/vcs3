@@ -13,5 +13,4 @@ Create a stack of crop sticks (you will need a LOT of these!). Make some farming
 -  The various growth-accelerating items (Watering Can, Fertilized Earth, etc.) will dramatically increase your productivity.
 -  To move plants, use the Trowel to move plants from one cropstick to another.
 
-[lnkAgriCraftCurse]
-
+http://minecraft.curseforge.com/projects/agricraft

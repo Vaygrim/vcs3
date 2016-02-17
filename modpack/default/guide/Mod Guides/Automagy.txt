@@ -6,4 +6,4 @@ Automagy is an add-on to Thaumcraft 4. It focuses on ways to help automate Thaum
 §0§lGetting Started:§r
 Automagy will be most useful once you have gotten into the more advanced Thaumcraft research.
 
-[lnkAutomagyMCF]
+http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2125369-tc4-addon-automagy-automation-and-logistics-v0-27
