@@ -10,4 +10,4 @@ You will need an existing Redstone Flux (RF) energy network to charge the jetpac
 -  A Flux Pack is a handy way to charge your jetpack when you're on the go.
 -  Running out of power while in-flight should be avoided.
 
-https://github.com/Tonius/SimplyJetpacks/wiki
+[lnkSimplyJetpacksWiki]

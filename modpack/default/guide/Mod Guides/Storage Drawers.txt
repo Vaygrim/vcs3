@@ -16,4 +16,4 @@ Storage Drawers have no inventory UI, so it can be a bit awkward to use one at f
 -  Capacity upgrades can be applied in any order, and can stack, if there are sufficient upgrade slots.
 -  An indicator upgrade will give a visual representation of how full the drawer is.
 
-http://www.curse.com/mc-mods/minecraft/223852-storage-drawers
+[lnkStorageDrawersCurse]

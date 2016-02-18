@@ -9,4 +9,4 @@ The Main GUI of the Workshop Table is divided into four large "modular workstati
 §0§lTips:§r
 -  Some upgrades are global, but some only apply to a single module in the Workshop. The mod won't allow you to drop an upgrade in the wrong slot.
 
-http://www.curse.com/mc-mods/minecraft/236564-ewys-workshop
+[lnkEwysCurse]

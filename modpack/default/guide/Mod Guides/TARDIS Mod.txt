@@ -14,4 +14,4 @@ Using a looted or crafted Kontron Crystal, craft a key then right-click the key 
     <b> intermediate levels
     <c> built at level
 
-http://www.curse.com/mc-mods/minecraft/230170-tardis-mod
+[lnkTARDISModCurseCurse]

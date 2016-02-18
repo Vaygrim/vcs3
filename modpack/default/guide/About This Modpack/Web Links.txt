@@ -1,17 +1,17 @@
 §1§lUseful Web Links:§r
 
 §lOfficial VCS3 website§r
-http://vaygrim.com/vcs3/
+[lnkTVVaygrimSite]
 Go here for modpack news and information
 
 §lVaygrim's IRC Channel§r
 Vaygrim Community chat on IRC
-http://esper.net/index.php
+[lnkEsper]
 channel: #Vaygrim
 
 §lAll Vaygrim's videos§r
-http://tv.vaygrim.com
+[lnkTVVaygrimSite]
 
 §lLeague of Ordinary Gamers§r
 A Community of fun, casual gamers and like-minded friends.
-http://vaygrim.com/forum/
+[lnkTLOG]

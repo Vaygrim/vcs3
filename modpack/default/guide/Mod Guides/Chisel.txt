@@ -10,4 +10,4 @@ Create a Chisel tool. Hold the chisel tool, then use it. A GUI will open. Drop a
 -  Chiseled blocks can be re-chiseled into other varieties of the same basic block.
 -  Chiseled blocks can always be un-chiseled back to the original block.
 
-http://www.curse.com/mc-mods/minecraft/225236-chisel-2
+[lnkChisel2Curse]
