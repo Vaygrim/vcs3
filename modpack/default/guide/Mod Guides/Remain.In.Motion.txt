@@ -1,0 +1,14 @@
+§1§lRemain In Motion§r
+
+§0§lDescription:§r
+Connect blocks to carriage frameworks to create large, automated moving structures.
+
+§0§lGetting Started:§r
+You will need the Remain In Motion Screwdriver to configure your structure. Craft frameworks, then attach blocks to the frameworks to create structures with potentially very complex motion.
+
+§0§lTips:§r
+-  Start with very simple structures.
+-  Test each phase of the motion individually, before automating more complex motions.
+-  Only place chunk loaders on structures that have been thoroughly tested.
+
+[lnkRemainInMotionMCF]

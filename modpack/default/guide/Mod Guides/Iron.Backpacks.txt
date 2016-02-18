@@ -1,0 +1,16 @@
+§1§lIron Backpacks§r
+
+§0§lDescription:§r
+Similar to the Iron Chests mod, Iron Backpacks adds several tiers of packs that have increasing storage. There are a variety of upgrades for the packs that can add useful features.
+
+
+§0§lGetting Started:§r
+Craft a backpack! The "upgrade points" for each pack show how upgradeable the pack is. Each upgrade will use some points. Upgrades are applied to a pack by using a crafting grid. Upgrades can get pretty pricey, but an upgraded, configured backpack is a very useful thing!
+
+§0§lTips:§r
+-  Right-click while holding a pack to rename it.
+-  A backpack can be upgraded, so start with the lowest tier and add storage as you need.
+-  The Depth upgrade will allow you to access a pack within your pack
+
+[lnkIronBackpacksMCF]
+

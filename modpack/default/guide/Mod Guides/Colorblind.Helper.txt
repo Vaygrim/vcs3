@@ -1,0 +1,7 @@
+§1§lColorblind Helper§r
+
+§0§lDescription:§r
+Adds a small text label to items, to better distinguish items that appear similar, especially to players with some level of color blindness. This the mod that puts the "Fe" on iron, the "Cu" on copper, etc. 
+
+§0§lTo turn this off:§r
+If you want to turn this mod off, just remove it from your pack. The name of the file is §lColorblindHelper-1.7.10-x.x.x.x.jar§r (where the x's are the version number). Removing it will NOT affect servers or other players. 

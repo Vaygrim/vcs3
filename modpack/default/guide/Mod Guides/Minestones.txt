@@ -9,4 +9,4 @@ Minestones are random drops from mobs. Over time or if you have a monster farm, 
 §0§lTips:§r
 -  Since all the stones use the same item ID, the Filing Cabinet from Extra Utilities is a convenient way to store a large collection.
 
-http://www.curse.com/mc-mods/minecraft/231048-minestones
+[lnkMinestonesCurse]
