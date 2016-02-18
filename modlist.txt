@@ -35,8 +35,8 @@ FastFlyBlockBreaking-MC1.7.10-0.1-build-1.jar
 FinndusFillies-1.7.10-universal-2.1.0.12.jar
 FlatSigns-1.7.10-universal-2.1.0.19.jar
 Forbidden Magic-1.7.10-0.573.jar
-FTBLib-1.7.10-1.0.17.2.jar
-FTBUtilities-1.7.10-1.0.17.1.jar
+FTBLib-1.7.10-1.0.17.3.jar
+FTBUtilities-1.7.10-1.0.17.3.jar
 GardenStuff-1.7.10-1.7.0.jar
 gearswap-1.2.3.jar
 Guide-API-1.7.10-1.0.1-23.jar
