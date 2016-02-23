@@ -19,7 +19,7 @@ CodeChickenCore-1.7.10-1.0.7.47-universal.jar
 CoFHCore-[1.7.10]3.1.0-323.jar
 ColorblindHelper-1.7.10-1.0.1.3.jar
 cookingbook-mc1.7.10-1.0.134.jar
-darkcore-0.3-109.jar
+darkcore-0.3-78.jar
 Decocraft-2.2.1_1.7.10.jar
 DummyCore-2.0.1710.0A.jar
 EnderCore-1.7.10-0.2.0.31_beta.jar
@@ -85,7 +85,6 @@ ProjectRed-1.7.10-4.7.0pre9.92-Integration.jar
 ProjectRed-1.7.10-4.7.0pre9.92-Lighting.jar
 ProjectRed-1.7.10-4.7.0pre9.92-World.jar
 QuickCrafting-1.7.10-1.6.jar
-railcraft
 Railcraft_1.7.10-9.8.0.0.jar
 RandomThings-2.2.4.jar
 RemainInMotion-2.8.10.jar
@@ -95,7 +94,7 @@ scripts-VC3-1.2.zip
 SimplyJetpacks-MC1.7.10-1.5.3.jar
 StorageDrawers-1.7.10-1.7.7.jar
 Streams-0.1.6.jar
-tardismod-1.7.10-0.99-275.jar
+tardismod-1.7.10-0.99-259.jar
 tcnodetracker-1.7.10-1.1.2.jar
 Thaumcraft-1.7.10-4.2.3.5.jar
 thaumcraftneiplugin-1.7.10-1.7a.jar
