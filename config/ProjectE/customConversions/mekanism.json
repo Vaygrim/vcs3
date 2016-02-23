@@ -44,6 +44,7 @@
     "mekanism components": {
       "comment":"Base components crafted from raw materials",
       "conversions": [
+	    {"o":"Mekanism:BasicBlock|0",	   "i":["OD|ingotOsmium", "OD|ingotOsmium", "OD|ingotOsmium", "OD|ingotOsmium", "OD|ingotOsmium", "OD|ingotOsmium", "OD|ingotOsmium", "OD|ingotOsmium", "OD|ingotOsmium"]},
         {"o":"Mekanism:EnrichedAlloy|0",   "i":["minecraft:redstone|0", "OD|ingotIron"]},
         {"o":"Mekanism:ReinforcedAlloy|0", "i":["Mekanism:EnrichedAlloy|0", "OD|dustDiamond"]},
         {"o":"Mekanism:AtomicAlloy|0",     "i":["Mekanism:ReinforcedAlloy|0", "OD|dustRefinedObsidian"]},
