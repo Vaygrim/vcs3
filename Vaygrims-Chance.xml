@@ -964,14 +964,6 @@
 			website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290357-forge-multipart-projectred-v4-5-0-50-9-29-2014" 
 			authors="Mr_TJP, ChickenBones"
 			description="Project:Red World module. Adds basalt and marble, as well as sweet volcanoes!" />
-			
-		<mod name="Quick Crafting" version="1.7.10-1.6" 
-			url="packs/VaygrimsChance/files/1.7.10/Core/QuickCrafting-1.7.10-1.6.jar" 
-			file="QuickCrafting-1.7.10-1.6.jar" 
-			md5="f01f811fc8ed97f6f1ed3b56a4f95b67" 
-			download="server" type="mods" 
-			website="http://www.curseforge.com/projects/237885/" 
-			description="Craft without crafting." />
 		
 		<mod name="Railcraft" version="9.8.0.0" 
 			url="packs/VaygrimsChance/files/1.7.10/Core/Railcraft_1.7.10-9.8.0.0.jar" 
