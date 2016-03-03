@@ -84,7 +84,6 @@ ProjectRed-1.7.10-4.7.0pre9.92-Compat.jar
 ProjectRed-1.7.10-4.7.0pre9.92-Integration.jar
 ProjectRed-1.7.10-4.7.0pre9.92-Lighting.jar
 ProjectRed-1.7.10-4.7.0pre9.92-World.jar
-QuickCrafting-1.7.10-1.6.jar
 Railcraft_1.7.10-9.8.0.0.jar
 RandomThings-2.2.4.jar
 RemainInMotion-2.8.10.jar
